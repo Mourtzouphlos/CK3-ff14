@@ -1,0 +1,297 @@
+k_10506={
+color={  255 80 0 }
+capital=c_10506
+
+
+d_10506={
+color={  255 80 0 }
+capital=c_10506
+
+c_10506={
+color={ 22 107 37 }
+b_10506={
+province=10506
+color={ 22 107 37 }
+}
+ b_9546={
+province=9546
+color={ 22 107 34 }
+}
+ b_8948={
+province=8948
+color={ 22 107 34 }
+}
+ b_9518={
+province=9518
+color={ 22 107 34 }
+}
+ 
+ b_6830={
+province=6830
+color={ 22 107 86 }
+}
+ b_9008={
+province=9008
+color={ 22 107 113 }
+}
+b_9129 = {
+province =9129
+color = { 22 107 222 }
+}
+ 
+b_9737 = {
+province =9737
+color = { 22 107 233 }
+}
+ 
+ b_10016={
+province=10016
+color={ 22 107 35 }
+}
+ b_9779={
+province=9779
+color={ 22 107 35 }
+}
+b_9763={
+province=9763
+color={ 22 107 35 }
+}
+ b_9290={
+province=9290
+color={ 22 107 36 }
+}
+ b_10513={
+province=10513
+color={ 22 107 36 }
+}
+ b_10264={
+province=10264
+color={ 22 107 37 }
+}
+ b_10300={
+province=10300
+color={ 22 107 37 }
+}
+ 
+}
+c_8195={
+color={ 221 107 105 }
+b_8195={
+province=8195
+color={ 221 107 105 }
+}
+ b_6878={
+province=6878
+color={ 221 107 87 }
+}
+ b_8260={
+province=8260
+color={ 221 107 106 }
+}
+ b_7174={
+province=7174
+color={ 221 107 94 }
+}
+ b_8607={
+province=8607
+color={ 221 107 109 }
+}
+ b_6425={
+province=6425
+color={ 221 107 79 }
+}
+ b_8318={
+province=8318
+color={ 221 107 108 }
+}
+ b_5591={
+province=5591
+color={ 221 107 69 }
+}
+ b_8172={
+province=8172
+color={ 221 107 103 }
+}
+ b_4973={
+province=4973
+color={ 221 107 61 }
+}
+ b_5846={
+province=5846
+color={ 221 107 73 }
+}
+ b_3251={
+province=3251
+color={ 221 107 49 }
+}
+}
+
+c_2842={
+color={ 22 22 45 }
+b_2842={
+province=2842
+color={ 22 22 45 }
+}
+ 
+b_1407={
+province=1407
+color={ 22 22 35 }
+}
+ b_6778={
+province=6778
+color={ 22 107 85 }
+}
+ b_5786={
+province=5786
+color={ 22 107 72 }
+}
+ b_6919={
+province=6919
+color={ 22 107 89 }
+}
+ b_3835={
+province=3835
+color={ 22 107 52 }
+} 
+b_2050={
+province=2050
+color={ 22 107 52 }
+}
+ b_2464={
+province=2464
+color={ 22 107 43 }
+}
+ 
+b_1816= {
+province = 1816
+color = { 220 107 34 }
+}
+   b_7083= {
+province = 7083
+color = { 22 107 100 }
+}
+  b_4443={
+province=4443
+color={ 22 107 54 }
+}
+b_4808={
+province=4808
+color={ 30 67 974 }
+}
+ b_6375={
+province=6375
+color={ 22 107 78 }
+}
+ b_3924={
+province=3924
+color={ 22 22 87 }
+}
+ 
+ 
+b_4671={
+province=4671
+color={ 22 22 63 }
+}
+ 
+b_4150={
+province=4150
+color={ 22 22 54 }
+}
+ 
+b_6266={
+province=6266
+color={ 22 22 83 }
+}
+ 
+b_7124={
+province=7124
+color={ 22 22 87 }
+}
+ b_2505={
+province=2505
+color={ 22 22 87 }
+}
+ b_5693={
+province=5693
+color={ 22 22 87 }
+}
+ b_4177={
+province=4177
+color={ 22 22 87 }
+}
+ b_5630={
+province=5630
+color={ 22 22 87 }
+}
+ b_4518={
+province=4518
+color={ 22 22 87 }
+}
+ 
+ b_2442={
+province=2442
+color={ 22 22 87 }
+}
+ b_3774={
+province=3774
+color={ 22 22 87 }
+}
+
+ 
+b_7563= {
+province = 7563
+color = { 22 22 89 }
+}
+}
+
+
+c_2315= {
+color = { 22 107 37 }
+b_2315= {
+province = 2315
+color = { 22 107 37 }
+}
+b_1287= {
+province = 1287
+color = { 22 107 38 }
+}
+b_584= {
+province = 584
+color = { 22 107 39 }
+}
+
+ b_2279={
+province=2279
+color = { 22 107 39 }
+}
+b_2768= {
+province = 2768
+color = { 123 12 1 }
+}
+ b_2333= {
+province = 2333
+color = { 22 107 41 }
+}
+b_1946= {
+province = 1946
+color = { 22 107 39 }
+}
+b_5285= {
+province = 5285
+color = { 22 107 73 }
+}
+b_3968= {
+province = 3968
+color = { 22 107 73 }
+}
+b_2209= {
+province = 2209
+color = { 22 107 73 }
+}
+b_748= {
+province = 748
+color = { 22 107 39 }
+}
+}
+}
+}

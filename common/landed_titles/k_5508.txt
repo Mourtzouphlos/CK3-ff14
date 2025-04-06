@@ -1,0 +1,335 @@
+k_5508={
+	color={ 0 200 170 }
+
+	capital=c_5508
+
+d_5508={
+color={ 2 127 108 }
+capital=c_5508
+c_5508={
+color={ 22 107 5688 }
+b_5508={
+province=5508
+color={ 22 107 5688 }
+}
+b_2169={
+province=2169
+color={ 22 107 2349 }
+}
+
+b_3518={
+province=3518
+color={ 22 107 3698 }
+}
+b_4515={
+province=4515
+color={ 22 107 4695 }
+}
+b_4243={
+province=4243
+color={ 22 107 4423 }
+}
+b_1682={
+province=1682
+color={ 22 107 1862 }
+}
+b_1469={
+province=1469
+color={ 22 107 1649 }
+}
+b_2509={
+province=2509
+color={ 22 107 2689 }
+}
+}
+c_1891={
+color={ 22 107 2071 }
+b_1891={
+province=1891
+color={ 22 107 2071 }
+}
+b_2682={
+province=2682
+color={ 22 107 2862 }
+}
+b_2110={
+province=2110
+color={ 22 107 2290 }
+}
+b_1601={
+province=1601
+color={ 22 107 1781 }
+}
+b_2969={
+province=2969
+color={ 22 107 3149 }
+}
+b_3163={
+province=3163
+color={ 22 107 3343 }
+}
+}
+}
+d_2778={
+color={ 282 27 78 }
+capital=c_2778
+c_2778={
+color={ 22 107 2958 }
+b_2778={
+province=2778
+color={ 22 107 2958 }
+}
+b_589={
+province=589
+color={ 22 107 769 }
+}
+b_1965={
+province=1965
+color={ 22 107 2145 }
+}
+b_2182={
+province=2182
+color={ 22 107 2362 }
+}
+b_2459={
+province=2459
+color={ 22 107 2639 }
+}
+b_2248={
+province=2248
+color={ 22 107 2428 }
+}
+b_1416={
+province=1416
+color={ 22 107 1596 }
+}
+b_4757={
+province=4757
+color={ 22 107 4937 }
+}
+}
+c_4401={
+color={ 22 107 4581 }
+b_4401={
+province=4401
+color={ 22 107 4581 }
+}
+b_6328={
+province=6328
+color={ 22 107 6508 }
+}
+b_1870={
+province=1870
+color={ 22 107 2050 }
+}
+b_2385={
+province=2385
+color={ 22 107 2565 }
+}
+b_4223={
+province=4223
+color={ 22 107 4403 }
+}
+b_2512={
+province=2512
+color={ 22 107 2692 }
+}
+b_2987={
+province=2987
+color={ 22 107 3167 }
+}
+}
+}
+d_1239={
+color={ 212 127 19 }
+capital=c_1239
+c_1239={
+color={ 22 107 1419 }
+b_1239={
+province=1239
+color={ 22 107 1419 }
+}
+b_2065={
+province=2065
+color={ 22 107 2245 }
+}
+b_5266={
+province=5266
+color={ 22 107 5446 }
+}
+b_3417={
+province=3417
+color={ 22 107 3597 }
+}
+b_1475={
+province=1475
+color={ 22 107 1655 }
+}
+b_1831={
+province=1831
+color={ 22 107 2011 }
+}
+}
+}
+d_9890={
+color={ 42 127 100 }
+capital=c_9890
+c_9890={
+color={ 22 107 10070 }
+b_989={
+province=989
+color={ 22 107 1169 }
+}
+b_2122={
+province=2122
+color={ 22 107 2302 }
+}
+b_3876={
+province=3876
+color={ 22 107 4056 }
+}
+b_1025={
+province=1025
+color={ 22 107 1205 }
+}
+}
+
+c_2198={
+color={ 22 107 2378 }
+b_2198={
+province=2198
+color={ 22 107 2378 }
+}
+b_2271={
+province=2271
+color={ 22 107 2451 }
+}
+b_2027={
+province=2027
+color={ 22 107 2207 }
+}
+b_1099={
+province=1099
+color={ 22 107 1279 }
+}
+}
+}
+d_2144={
+color={ 172 17 24 }
+capital=c_2144
+c_2144={
+color={ 22 107 2324 }
+b_2144={
+province=2144
+color={ 22 107 2324 }
+}
+b_3277={
+province=3277
+color={ 22 107 3457 }
+}
+b_2032={
+province=2032
+color={ 22 107 2212 }
+}
+b_2308={
+province=2308
+color={ 22 107 2488 }
+}
+b_2193={
+province=2193
+color={ 22 107 2373 }
+}
+b_2551={
+province=2551
+color={ 22 107 2731 }
+}
+}
+c_2046={
+color={ 22 107 2226 }
+b_2046={
+province=2046
+color={ 22 107 2226 }
+}
+b_2265={
+province=2265
+color={ 22 107 2445 }
+}
+b_1664={
+province=1664
+color={ 22 107 1844 }
+}
+b_3961={
+province=3961
+color={ 22 107 4141 }
+}
+}
+}
+d_4285={
+color={ 12 17 45 }
+capital=c_4285
+c_4285={
+color={ 22 107 4465 }
+b_4285={
+province=4285
+color={ 22 107 4465 }
+}
+b_5046={
+province=5046
+color={ 22 107 5226 }
+}
+b_1960={
+province=1960
+color={ 22 107 2140 }
+}
+b_2559={
+province=2559
+color={ 22 107 2739 }
+}
+b_6323={
+province=6323
+color={ 22 107 6503 }
+}
+b_2164={
+province=2164
+color={ 22 107 2344 }
+}
+b_654={
+province=654
+color={ 22 107 834 }
+}
+b_3956={
+province=3956
+color={ 22 107 4136 }
+}
+b_1866={
+province=1866
+color={ 22 107 2046 }
+}
+}
+c_1589={
+color={ 22 107 1769 }
+b_1589={
+province=1589
+color={ 22 107 1769 }
+}
+b_1780={
+province=1780
+color={ 22 107 1960 }
+}
+b_3422={
+province=3422
+color={ 22 107 3602 }
+}
+b_4593={
+province=4593
+color={ 22 107 4773 }
+}
+b_997={
+province=997
+color={ 22 107 1177 }
+}
+}
+}
+
+}
+

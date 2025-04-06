@@ -1,0 +1,345 @@
+d_1155={
+color = { 66 88 99 }
+capital = c_1155
+c_1155= {
+color = { 220 220 86 }
+  
+ 
+b_7559= {
+province = 7559
+color = { 220 220 86 }
+}
+ 
+b_4448= {
+province = 4448
+color = { 220 220 54 }
+}
+ 
+b_8722= {
+province = 8722
+color = { 220 220 99 }
+}
+ 
+b_8823= {
+province = 8823
+color = { 220 220 101 }
+}
+ 
+ 
+b_8566= {
+province = 8566
+color = { 220 220 37 }
+}
+ 
+b_5690= {
+province = 5690
+color = { 220 220 71 }
+}
+ 
+b_6951= {
+province = 6951
+color = { 220 220 83 }
+ 
+}
+   
+b_2394= {
+province = 2394
+color = { 220 220 86 }
+}
+}
+ 
+  
+  
+  
+c_7168= {
+color = { 22 107 62 }
+ b_7168= {
+province = 7168
+color = { 22 107 84 }
+}
+ b_8401= {
+province = 8401
+color = { 22 107 95 }
+}
+ b_8673= {
+province = 8673
+color = { 22 107 98 }
+}
+ b_7362= {
+province = 7362
+color = { 22 107 38 }
+}
+ b_9012= {
+province = 9012
+color = { 22 107 40 }
+}
+ b_7529= {
+province = 7529
+color = { 22 107 40 }
+}
+ b_8237= {
+province = 8237
+color = { 22 107 41 }
+}
+ b_5246= {
+province = 5246
+color = { 22 107 41 }
+}
+}
+
+
+
+
+c_3013={
+ 
+color = { 22 22 68 }
+ 
+
+b_3013={
+province = 3013
+color = { 22 22 68 }
+} 
+ b_4011={
+province = 4011
+color = { 22 22 68 }
+} 
+ b_2511={
+province = 2511
+color = { 22 22 68 }
+} 
+ b_2622= {
+province = 2622
+color = { 22 22 68 }
+}
+  b_4915={
+province = 4915
+color = { 22 22 68 }
+} 
+ b_2332={
+province = 2332
+color = { 22 22 68 }
+} 
+ b_4470={
+province = 4470
+color = { 22 22 68 }
+} 
+ b_3729={
+province = 3729
+color = { 22 22 68 }
+} 
+ b_4634={
+province = 4634
+color = { 22 22 68 }
+} 
+ b_3740={
+province = 3740
+color = { 22 22 68 }
+} 
+ b_1710={
+province = 1710
+color = { 22 22 68 }
+} 
+}
+
+c_3913= {
+color = { 220 220 38 }
+
+b_3913={
+province = 3913
+color = { 220 220 68 }
+} 
+ b_5601={
+province = 5601
+color = { 220 220 68 }
+} 
+ b_2989={
+province = 2989
+color = { 220 220 68 }
+} 
+ b_3097={
+province = 3097
+color = { 220 220 68 }
+} 
+ b_3695={
+province = 3695
+color = { 220 220 68 }
+} 
+ b_8873={
+province = 8873
+color = { 220 220 68 }
+} 
+ b_5521={
+province = 5521
+color = { 220 220 68 }
+} 
+ b_8695={
+province = 8695
+color = { 220 220 68 }
+} 
+ b_9267={
+province = 9267
+color = { 220 220 68 }
+} 
+ b_8477={
+province = 8477
+color = { 220 220 68 }
+} 
+}
+c_9034= {
+color = { 220 107 38 }
+
+b_9034={
+province = 9034
+color = { 220 107 68 }
+}  
+ b_8771={
+province = 8771
+color = { 220 107 68 }
+} 
+ b_9880={
+province = 9880
+color = { 220 107 68 }
+} 
+ b_8270={
+province = 8270
+color = { 220 107 68 }
+} 
+ b_8147= {
+province = 8147
+color = { 220 107 68 }
+ } 
+ b_10314= {
+province = 10314
+color = { 220 107 68 }
+}
+ 
+ b_4125={
+province = 4125
+color = { 220 107 68 }
+} 
+ b_7582={
+province = 7582
+color = { 220 107 68 }
+} 
+ b_4248={
+province = 4248
+color = { 220 107 68 }
+} 
+ b_7997={
+province = 7997
+color = { 220 107 68 }
+} 
+ b_9322={
+province = 9322
+color = { 220 107 68 }
+} 
+}
+
+
+c_8057= {
+color = { 74 74 174 }
+
+ 
+b_9203= {
+province = 9203
+color = { 74 74 174 }
+}
+ 
+b_8559= {
+province = 8559
+color = { 74 74 174 }
+}
+ 
+b_5997= {
+province = 5997
+color = { 74 74 174 }
+}
+ 
+b_6404= {
+province = 6404
+color = { 74 74 174 }
+}
+ 
+b_8349= {
+province = 8349
+color = { 74 74 174 }
+ 
+}
+b_6200={
+province = 6200
+color = { 74 74 174 }
+} 
+ b_6218={
+province = 6218
+color = { 74 74 174 }
+} 
+ b_8965={
+province = 8965
+color = { 74 74 174 }
+} 
+ b_8057={
+province = 8057
+color = { 74 74 174 }
+} 
+}
+
+
+c_4509= {
+color = { 220 107 56 }
+b_4509= {
+province = 4509
+color = { 220 107 56 }
+}
+ 
+b_4842= {
+province = 4842
+color = { 220 107 38 }
+}
+ 
+ 
+b_3709= {
+province = 3709
+color = { 220 107 42 }
+}
+ 
+b_4010= {
+province = 4010
+color = { 220 107 49 }
+}
+ 
+b_8395= {
+province = 8395
+color = { 220 107 94 }
+}
+ 
+b_7692= {
+province = 7692
+color = { 220 107 88 }
+}
+ 
+b_7408= {
+province = 7408
+color = { 220 107 85 }
+}
+ 
+b_5840= {
+province = 5840
+color = { 220 107 72 }
+}
+ 
+b_4793= {
+province = 4793
+color = { 220 107 61 }
+}
+}
+
+
+
+
+
+
+
+
+
+
+}

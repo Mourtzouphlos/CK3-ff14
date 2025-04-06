@@ -1,0 +1,202 @@
+d_808={
+color = { 77 44 22 }
+capital = c_808
+ c_808= {
+color = { 22 10 51 }
+b_4209= {
+province = 4209
+color = { 22 10 51 }
+}
+ 
+b_7961= {
+province = 7961
+color = { 22 10 69 }
+}
+ 
+b_2696= {
+province = 2696
+color = { 22 10 42 }
+}
+ 
+b_1044= {
+province = 1044
+color = { 22 10 35 }
+}
+ 
+b_2930= {
+province = 2930
+color = { 22 10 45 }
+}
+ 
+b_1972= {
+province = 1972
+color = { 22 10 38 }
+}
+ 
+b_3096= {
+province = 3096
+color = { 22 10 46 }
+}
+ 
+b_1017= {
+province = 1017
+color = { 22 10 34 }
+}
+ 
+b_808= {
+province = 808
+color = { 22 10 34 }
+}
+ 
+b_1666= {
+province = 1666
+color = { 22 10 38 }
+}
+}
+c_4338= {
+color = { 210 210 34 }
+b_4338= {
+province = 4338
+color = { 210 210 34 }
+}
+ 
+b_2767= {
+province = 2767
+color = { 210 210 43 }
+}
+ b_7342= {
+province = 7342
+color = { 210 210 40 }
+}
+
+b_2390= {
+province = 2390
+color = { 210 210 40 }
+}
+ 
+b_2038= {
+province = 2038
+color = { 210 210 39 }
+}
+ 
+b_2802= {
+province = 2802
+color = { 210 210 44 }
+}
+ 
+b_3566= {
+province = 3566
+color = { 210 210 47 }
+}
+ 
+b_2201= {
+province = 2201
+color = { 210 210 40 }
+}
+ 
+b_4186= {
+province = 4186
+color = { 210 210 51 }
+}
+ 
+b_2402= {
+province = 2402
+color = { 210 210 41 }
+}
+ 
+b_7211= {
+province = 7211
+color = { 210 210 67 }
+}
+}
+c_6642= {
+color = { 210 2 34 }
+b_6642= {
+province = 6642
+color = { 210 2 34 }
+}
+ 
+b_1349= {
+province = 1349
+color = { 210 2 35 }
+}
+ 
+b_1627= {
+province = 1627
+color = { 210 2 37 }
+}
+ 
+b_3187= {
+province = 3187
+color = { 210 2 46 }
+}
+ 
+b_3667= {
+province = 3667
+color = { 210 2 48 }
+}
+ 
+b_3874= {
+province = 3874
+color = { 210 2 49 }
+}
+ 
+b_4004= {
+province = 4004
+color = { 210 2 50 }
+}
+ 
+b_4184= {
+province = 4184
+color = { 210 2 50 }
+}
+ 
+b_4447= {
+province = 4447
+color = { 210 2 52 }
+}
+ 
+b_4497= {
+province = 4497
+color = { 210 2 53 }
+}
+ 
+b_5029= {
+province = 5029
+color = { 210 2 54 }
+}
+ 
+b_5173= {
+province = 5173
+color = { 210 2 56 }
+}
+ 
+b_6058= {
+province = 6058
+color = { 210 2 60 }
+}
+ 
+b_6136= {
+province = 6136
+color = { 210 2 61 }
+}
+ 
+b_6320= {
+province = 6320
+color = { 210 2 62 }
+}
+ 
+b_6723= {
+province = 6723
+color = { 210 2 64 }
+}
+ 
+b_6917= {
+province = 6917
+color = { 210 2 65 }
+}
+ 
+}
+
+
+}#

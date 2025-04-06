@@ -1,0 +1,188 @@
+	k_6517={
+		color={ 100 200 0 }
+
+		capital=c_6517
+
+d_6517={
+color={ 172 47 17 }
+capital=c_6517
+c_6517={
+color={ 22 107 6697 }
+b_6517={
+province=6517
+color={ 22 107 6697 }
+}
+b_1420={
+province=1420
+color={ 22 107 1600 }
+}
+b_2491={
+province=2491
+color={ 22 107 2671 }
+}
+b_1170={
+province=1170
+color={ 22 107 1350 }
+}
+b_3082={
+province=3082
+color={ 22 107 3262 }
+}
+b_3131={
+province=3131
+color={ 22 107 3311 }
+}
+}
+
+c_2880={
+color={ 22 107 3060 }
+b_2880={
+province=2880
+color={ 22 107 3060 }
+}
+b_2744={
+province=2744
+color={ 22 107 2924 }
+}
+b_1032={
+province=1032
+color={ 22 107 1212 }
+}
+b_1096={
+province=1096
+color={ 22 107 1276 }
+}
+b_2864={
+province=2864
+color={ 22 107 3044 }
+}
+b_2872={
+province=2872
+color={ 22 107 3052 }
+}
+b_1200={
+province=1200
+color={ 22 107 1380 }
+}
+b_2409={
+province=2409
+color={ 22 107 2589 }
+}
+}
+c_3648={
+color={ 22 107 3828 }
+b_3648={
+province=3648
+color={ 22 107 3828 }
+}
+b_1765={
+province=1765
+color={ 22 107 1945 }
+}
+b_2405={
+province=2405
+color={ 22 107 2585 }
+}
+b_2600={
+province=2600
+color={ 22 107 2780 }
+}
+b_2327={
+province=2327
+color={ 22 107 2507 }
+}
+b_2064={
+province=2064
+color={ 22 107 2244 }
+}
+b_1655={
+province=1655
+color={ 22 107 1835 }
+}
+}
+}
+
+d_2362={
+color={ 11 127 38 }
+capital=c_2362
+c_2362={
+color={ 22 107 36 }
+b_2362={
+province=2362
+color={ 22 107 36 }
+}
+b_1007={
+province=1007
+color={ 22 107 37 }
+}
+ b_2726={
+province=2726
+color={ 22 107 48 }
+}
+b_723={
+province=723
+color={ 22 107 34 }
+}
+b_706={
+province=706
+color={ 22 107 35 }
+}
+b_788={
+province=788
+color={ 22 107 34 }
+}
+
+b_1395={
+province=1395
+color={ 22 107 37 }
+}
+}
+}
+d_4163={
+color={ 152 127 63 }
+capital=c_4163
+c_4163={
+color={ 22 107 4343 }
+b_4163={
+province=4163
+color={ 22 107 4343 }
+}
+b_4166={
+province=4166
+color={ 22 107 4346 }
+}
+b_4938={
+province=4938
+color={ 22 107 5118 }
+}
+b_3246={
+province=3246
+color={ 22 107 3426 }
+}
+b_3139={
+province=3139
+color={ 22 107 3319 }
+}
+}
+
+c_1696={
+color={ 22 107 1876 }
+b_1696={
+province=1696
+color={ 22 107 1876 }
+}
+b_556={
+province=556
+color={ 22 107 736 }
+}
+b_1401={
+province=1401
+color={ 22 107 1581 }
+}
+b_2485={
+province=2485
+color={ 22 107 2665 }
+}
+}
+}
+}
