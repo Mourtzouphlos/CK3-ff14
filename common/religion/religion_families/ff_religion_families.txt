@@ -1,0 +1,25 @@
+﻿rf_the_twelve = {
+	graphical_faith = "orthodox_gfx"
+	hostility_doctrine = the_twelve_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
+}
+
+rf_the_primal = {
+	graphical_faith = "orthodox_gfx"
+	hostility_doctrine = the_primal_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
+}
+
+rf_the_monster = {
+	graphical_faith = "orthodox_gfx"
+	hostility_doctrine = the_monster_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
+}
+
+rf_the_dragon = {
+	graphical_faith = "orthodox_gfx"
+	hostility_doctrine = the_dragon_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
+}
+
+

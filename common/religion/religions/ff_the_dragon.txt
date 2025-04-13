@@ -1,0 +1,312 @@
+﻿the_dragon_religion = {
+	family = rf_the_dragon
+	doctrine_background_icon = core_tenet_banner_christian.dds
+	doctrine = the_dragon_hostility_doctrine
+
+	pagan_roots = yes
+
+	#Main Group
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_pluralistic
+	doctrine = doctrine_theocracy_temporal
+	doctrine = doctrine_spiritual_head
+	doctrine = doctrine_pilgrimage_encouraged
+
+	#Marriage
+	doctrine = doctrine_polygamy
+	doctrine = doctrine_divorce_approval
+	doctrine = doctrine_bastardry_none
+	doctrine = doctrine_consanguinity_unrestricted
+
+	#Crimes
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_any_dynasty_member_crime
+	doctrine = doctrine_witchcraft_accepted
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_taxation
+	doctrine = doctrine_clerical_gender_either
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_spiritual_fixed_appointment
+	doctrine = doctrine_funeral_sky_burial
+
+	#Special Doctrine for Christian Syncretism
+	#doctrine = special_doctrine_is_christian_faith
+
+	traits = {
+		virtues = {  }
+		sins = { }
+	}
+
+	reserved_male_names = { 
+	}
+	reserved_female_names = { 
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1 custom_faith_fp1_fenrir custom_faith_fp1_irminsul custom_faith_fp1_jormungandr custom_faith_fp1_odins_ravens custom_faith_fp1_runestone_moon custom_faith_fp1_thors_hammer custom_faith_fp1_valknut custom_faith_fp1_yggdrasil custom_faith_boromian_circles custom_faith_lotus custom_faith_aum_tibetan custom_faith_pentagram custom_faith_pentagram_inverted custom_faith_burning_bush custom_faith_allah custom_faith_gankyil custom_faith_eye_of_providence custom_faith_dove custom_faith_ichthys custom_faith_lamb custom_faith_black_sheep custom_faith_ankh custom_faith_chi_rho custom_faith_hamsa custom_faith_cool_s
+	}
+
+	holy_order_names = { 
+		# { name = "holy_order_knights_of_the_chalice" }
+		# { name = "holy_order_order_of_the_holy_communion" }
+		# { name = "holy_order_knights_of_the_first_gospel" }
+		# { name = "holy_order_guardians_of_the_shroud" }
+		# { name = "holy_order_knights_of_the_reliquary" }
+		# { name = "holy_order_warriors_of_the_cross" }
+		# { name = "holy_order_christian" coat_of_arms = "ho_christian" }
+	}
+
+	holy_order_maa = { teutonic_knights } 
+
+	localization = {
+		#Social
+		ReligiousHeadName = good_dragon_religious_head_title
+		ReligiousHeadTitleName = good_dragon_religious_head_title_name
+
+		DevoteeMale = good_dragon_devotee_male
+		DevoteeMalePlural = good_dragon_devotee_male_plural
+		DevoteeFemale = good_dragon_devotee_female
+		DevoteeFemalePlural = good_dragon_devotee_female_plural
+		DevoteeNeuter = good_dragon_devotee_male
+		DevoteeNeuterPlural = good_dragon_devotee_male_plural
+
+		PriestMale = good_dragon_priest_male
+		PriestMalePlural = good_dragon_priest_male_plural
+		PriestFemale = good_dragon_priest_male
+		PriestFemalePlural = good_dragon_priest_male_plural
+		PriestNeuter = good_dragon_priest_male
+		PriestNeuterPlural = good_dragon_priest_male_plural
+		AltPriestTermPlural = good_dragon_priest_alternate_plural
+
+		BishopMale = good_dragon_bishop
+		BishopMalePlural = good_dragon_bishop_plural
+		BishopFemale = good_dragon_bishop
+		BishopFemalePlural = good_dragon_bishop_plural
+		BishopNeuter = good_dragon_bishop
+		BishopNeuterPlural = good_dragon_bishop_plural
+
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+
+		#Setting
+		HouseOfWorship = good_dragon_house_of_worship
+		HouseOfWorship2 = good_dragon_house_of_worship_2
+		HouseOfWorship3 = good_dragon_house_of_worship_3
+		HouseOfWorshipPlural = good_dragon_house_of_worship_plural
+
+		ReligiousSymbol = good_dragon_religious_symbol
+		ReligiousSymbol2 = good_dragon_religious_symbol_2
+		ReligiousSymbol3 = good_dragon_religious_symbol_3
+		ReligiousText = good_dragon_religious_text
+		ReligiousText2 = good_dragon_religious_text_2
+		ReligiousText3 = good_dragon_religious_text_3
+
+		DivineRealm = good_dragon_divine_realm
+		DivineRealm2 = good_dragon_divine_realm_2
+		DivineRealm3 = good_dragon_divine_realm_3
+		PositiveAfterLife = good_dragon_positive_afterlife
+		PositiveAfterLife2 = good_dragon_positive_afterlife_2
+		PositiveAfterLife3 = good_dragon_positive_afterlife_3
+		NegativeAfterLife = good_dragon_negative_afterlife
+		NegativeAfterLife2 = good_dragon_negative_afterlife_2
+		NegativeAfterLife3 = good_dragon_negative_afterlife_3
+
+		#Pantheon
+		PantheonTerm = good_dragon_pantheon_name
+		PantheonTerm2 = good_dragon_pantheon_name_2
+		PantheonTerm3 = good_dragon_pantheon_name_3
+		PantheonTermHasHave = pantheon_term_have
+
+		GoodGodNames = {
+			good_dragon_god_halone
+		}
+		EvilGodNames = {
+			ff_dragon_nidhogg
+		}
+
+		#HighGod
+		HighGodName = good_dragon_high_god_name
+		HighGodName2 = good_dragon_high_god_name_2
+		HighGodNamePossessive = good_dragon_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_THEY
+		HighGodHerselfHimself = CHARACTER_THEMSELF
+		HighGodHerHis = CHARACTER_HERHIS_THEIR
+		HighGodNameAlternate = good_dragon_high_god_name_alternate
+		HighGodNameAlternatePossessive = good_dragon_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = good_dragon_creator_god_name
+		CreatorNamePossessive = good_dragon_creator_god_name
+		CreatorSheHe = CHARACTER_SHEHE_THEY
+		CreatorHerHis = CHARACTER_HERHIS_THEIR
+		CreatorHerHim = CHARACTER_HERHIM_THEM
+
+		#HealthGod
+		HealthGodName = good_dragon_health_god_name
+		HealthGodNamePossessive = good_dragon_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_THEY
+		HealthGodHerHis = CHARACTER_HERHIS_THEIR
+		HealthGodHerHim = CHARACTER_HERHIM_THEM
+		
+		#FertilityGod
+		FertilityGodName = good_dragon_fertility_god_name
+		FertilityGodNamePossessive = good_dragon_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_THEY
+		FertilityGodHerHis = CHARACTER_SHEHE_THEIR
+		FertilityGodHerHim = CHARACTER_HERHIM_THEM
+
+		#WealthGod
+		WealthGodName = good_dragon_wealth_god_name
+		WealthGodNamePossessive = good_dragon_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_THEY
+		WealthGodHerHis = CHARACTER_SHEHE_THEIR
+		WealthGodHerHim = CHARACTER_HERHIM_THEM
+
+		#HouseholdGod
+		HouseholdGodName = good_dragon_household_god_name
+		HouseholdGodNamePossessive = good_dragon_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_THEY
+		HouseholdGodHerHis = CHARACTER_SHEHE_THEIR
+		HouseholdGodHerHim = CHARACTER_HERHIM_THEM
+
+		#FateGod
+		FateGodName = good_dragon_fate_god_name
+		FateGodNamePossessive = good_dragon_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_THEY
+		FateGodHerHis = CHARACTER_SHEHE_THEIR
+		FateGodHerHim = CHARACTER_HERHIM_THEM
+
+		#KnowledgeGod
+		KnowledgeGodName = good_dragon_knowledge_god_name
+		KnowledgeGodNamePossessive = good_dragon_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_THEY
+		KnowledgeGodHerHis = CHARACTER_HERHIS_THEIR
+		KnowledgeGodHerHim = CHARACTER_HERHIM_THEM
+
+		#WarGod
+		WarGodName = good_dragon_war_god_name
+		WarGodNamePossessive = good_dragon_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_THEY
+		WarGodHerHis = CHARACTER_SHEHE_THEIR
+		WarGodHerHim = CHARACTER_HERHIM_THEM
+
+		#TricksterGod
+		TricksterGodName = good_dragon_trickster_god_name
+		TricksterGodNamePossessive = good_dragon_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_THEY
+		TricksterGodHerHis = CHARACTER_HERHIS_THEIR
+		TricksterGodHerHim = CHARACTER_HERHIM_THEM
+
+		#NightGod
+		NightGodName = good_dragon_night_god_name
+		NightGodNamePossessive = good_dragon_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_THEY
+		NightGodHerHis = CHARACTER_SHEHE_THEIR
+		NightGodHerHim = CHARACTER_HERHIM_THEM
+
+		#WaterGod
+		WaterGodName = good_dragon_water_god_name
+		WaterGodNamePossessive = good_dragon_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_THEY
+		WaterGodHerHis = CHARACTER_HERHIS_THEIR
+		WaterGodHerHim = CHARACTER_HERHIM_THEM
+
+		#Devil
+		DevilName = good_dragon_devil_name
+		DevilNamePossessive = good_dragon_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_THEY
+		DevilHerHis = CHARACTER_HERHIS_THEIR
+		DevilHerHis = CHARACTER_HERHIS_THEIR
+		DevilHerselfHimself = CHARACTER_HIMSELF
+		
+		#Death
+		DeathDeityName = good_dragon_death_deity_name
+		DeathDeityNamePossessive = good_dragon_death_deity_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_THEY
+		DeathDeityHerHis = CHARACTER_SHEHE_THEIR
+		DeathDeityHerHim = CHARACTER_HERHIM_THEM
+
+		#Witch
+		WitchGodName = good_dragon_witch_god_name
+		WitchGodNamePossessive = good_dragon_witch_god_name_possessive
+		WitchGodHerHis = CHARACTER_HERHIS_THEIR
+		WitchGodSheHe = CHARACTER_SHEHE_THEY
+		WitchGodHerHim = CHARACTER_HERHIM_THEM
+		WitchGodMistressMaster = master
+		WitchGodMotherFather = father
+	}
+	
+	piety_icon_group = "christian"
+
+	faiths = {
+		good_dragon_faith = {
+			color = { 0.8 0.8 0.6 }
+			graphical_faith = "catholic_gfx"
+			
+			#Tenets
+			doctrine = tenet_communal_identity
+			doctrine = tenet_pacifism
+			doctrine = tenet_communal_possessions
+
+			doctrine = unreformed_faith_doctrine
+
+			holy_order_names = {
+			}
+
+			localization = { 
+			}
+		}
+
+		evil_dragon_faith = {
+			color = { 0.8 0.8 0.6 }
+			graphical_faith = "catholic_gfx"
+			
+			# holy_site = jerusalem
+			# holy_site = rome
+			# holy_site = cologne
+			# holy_site = santiago
+			# holy_site = kent
+			
+			#Special Tolerance
+			# 单一主神论
+			#doctrine = special_doctrine_ecumenical_christian
+
+			#Tenets
+			doctrine = tenet_warmonger
+			doctrine = tenet_human_sacrifice 
+			doctrine = tenet_adorcism
+
+			doctrine = unreformed_faith_doctrine
+
+			holy_order_names = {
+			}
+
+			#Main Group
+			doctrine = doctrine_pluralism_fundamentalist
+			doctrine = doctrine_pilgrimage_mandatory
+
+			#Marriage
+			doctrine = doctrine_divorce_allowed
+			doctrine = doctrine_bastardry_legitimization
+
+			#Crimes
+			doctrine = doctrine_homosexuality_accepted
+			doctrine = doctrine_deviancy_accepted
+			doctrine = doctrine_kinslaying_close_kin_crime
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_recruitment
+			doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_succession_spiritual_appointment
+			doctrine = doctrine_funeral_sky_stoic
+
+			localization = { 
+			}
+		}
+	}
+}
