@@ -1,0 +1,30 @@
+﻿namespace = ff_debug
+
+# religion localization debug event by Destacius
+ff_debug.1000 = {
+	type = character_event
+	title = ff_debug.1000.t
+	desc = ff_debug.1000.desc
+	theme = faith
+	override_background = { reference = temple }
+	# left_portrait = {
+	# 	character = root
+	# 	animation = reading
+	# }
+	right_portrait = {
+		character = root
+		animation = reading
+	}
+
+	trigger = {
+	}
+
+	immediate = {
+        #root.faith = { save_scope_as = debug_faith }
+	}
+
+	option = {
+		name = CONFIRM
+        default
+	}
+}

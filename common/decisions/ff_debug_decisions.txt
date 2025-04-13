@@ -1,0 +1,47 @@
+﻿ff_debug_loc_decision = { 
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_major_religion.dds"
+	}
+	sort_order = 0
+	desc = CONFIRM
+
+	is_shown = {
+		is_ai = no
+		debug_only = yes
+	}
+
+	is_valid = {
+		always = yes
+	}
+
+	widget = {
+		gui = "decision_view_widget_generic_multichoice_with_effects"
+		controller = decision_option_list_controller
+		decision_to_second_step_button = "CONFIRM"
+		show_from_start = yes
+
+		item = {
+			value = loc_religion
+			localization = ff_debug_loc_religion
+		}	 
+	}
+
+	effect = {
+		if = {
+			limit = { scope:loc_religion = yes  }
+			trigger_event = ff_debug.1000
+		}
+		else_if = {
+			limit = { scope:loc_religion = yes  }
+		}
+	}
+
+	ai_potential = {
+		always = no
+	}
+
+	ai_will_do = {
+		base = 0
+	}
+}
+

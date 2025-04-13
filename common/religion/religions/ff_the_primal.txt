@@ -1,0 +1,518 @@
+﻿titan_religion = {
+	family = rf_the_primal
+	doctrine_background_icon = core_tenet_banner_christian.dds
+	doctrine = the_primal_hostility_doctrine
+
+	pagan_roots = yes
+
+	#Main Group
+	doctrine = doctrine_gender_male_dominated
+	doctrine = doctrine_pluralism_fundamentalist
+	doctrine = doctrine_theocracy_temporal
+	doctrine = doctrine_temporal_head
+	doctrine = doctrine_pilgrimage_encouraged
+
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_allowed
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_consanguinity_restricted
+
+	#Crimes
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_close_kin_crime
+	doctrine = doctrine_witchcraft_accepted
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_taxation
+	doctrine = doctrine_clerical_gender_male_only
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_temporal_fixed_appointment
+	doctrine = doctrine_funeral_stoic
+
+	traits = {
+		virtues = { intellect_good_3 diligent scholar }
+		sins = { intellect_bad_3 lazy weak }
+	}
+
+	reserved_male_names = { 
+		Andrew Antoninus Bartolomeus Benedict Christian Christopher Clement Constantine David Demetrius Eustace George Gregory
+		Hans Isaac Joakim Jacob John Jordan Joseph Laurence Magnus Marcus Martin Matthew Michael Nicholas Patrick Paul Peter Philip
+		Salvador Samuel Sebastian Simon Stephen Thomas Abraham Alexander Daniel Job Joshua Cyrus Luke Zachariah
+	}
+	reserved_female_names = { 
+		Anna Beatrice Benedicta Brigid Catherine Cecilia Christina Clementia Constance Dorothy Elisabeth Joan Judith Juliana Helen
+		Magdalena Margaret Maria Marine Patricia Philippa Rachel Sarah Sophia Stephania
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1 custom_faith_fp1_fenrir custom_faith_fp1_irminsul custom_faith_fp1_jormungandr custom_faith_fp1_odins_ravens custom_faith_fp1_runestone_moon custom_faith_fp1_thors_hammer custom_faith_fp1_valknut custom_faith_fp1_yggdrasil custom_faith_boromian_circles custom_faith_lotus custom_faith_aum_tibetan custom_faith_pentagram custom_faith_pentagram_inverted custom_faith_burning_bush custom_faith_allah custom_faith_gankyil custom_faith_eye_of_providence custom_faith_dove custom_faith_ichthys custom_faith_lamb custom_faith_black_sheep custom_faith_ankh custom_faith_chi_rho custom_faith_hamsa custom_faith_cool_s
+	}
+
+	holy_order_names = { 
+	}
+
+	holy_order_maa = { teutonic_knights } 
+
+	localization = {
+		#Social
+		ReligiousHeadName = titan_religious_head_title
+		ReligiousHeadTitleName = titan_religious_head_title_name
+
+		DevoteeMale = titan_devotee_male
+		DevoteeMalePlural = titan_devotee_male_plural
+		DevoteeFemale = titan_devotee_female
+		DevoteeFemalePlural = titan_devotee_female_plural
+		DevoteeNeuter = titan_devotee_male
+		DevoteeNeuterPlural = titan_devotee_male_plural
+
+		PriestMale = titan_priest_male
+		PriestMalePlural = titan_priest_male_plural
+		PriestFemale = titan_priest_male
+		PriestFemalePlural = titan_priest_male_plural
+		PriestNeuter = titan_priest_male
+		PriestNeuterPlural = titan_priest_male_plural
+		AltPriestTermPlural = titan_priest_alternate_plural
+
+		BishopMale = titan_bishop
+		BishopMalePlural = titan_bishop_plural
+		BishopFemale = titan_bishop
+		BishopFemalePlural = titan_bishop_plural
+		BishopNeuter = titan_bishop
+		BishopNeuterPlural = titan_bishop_plural
+
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+
+		#Setting
+		HouseOfWorship = titan_house_of_worship
+		HouseOfWorship2 = titan_house_of_worship_2
+		HouseOfWorship3 = titan_house_of_worship_3
+		HouseOfWorshipPlural = titan_house_of_worship_plural
+
+		ReligiousSymbol = titan_religious_symbol
+		ReligiousSymbol2 = titan_religious_symbol_2
+		ReligiousSymbol3 = titan_religious_symbol_3
+		ReligiousText = titan_religious_text
+		ReligiousText2 = titan_religious_text_2
+		ReligiousText3 = titan_religious_text_3
+
+		DivineRealm = titan_divine_realm
+		DivineRealm2 = titan_divine_realm_2
+		DivineRealm3 = titan_divine_realm_3
+		PositiveAfterLife = titan_positive_afterlife
+		PositiveAfterLife2 = titan_positive_afterlife_2
+		PositiveAfterLife3 = titan_positive_afterlife_3
+		NegativeAfterLife = titan_negative_afterlife
+		NegativeAfterLife2 = titan_negative_afterlife_2
+		NegativeAfterLife3 = titan_negative_afterlife_3
+
+		#Pantheon
+		PantheonTerm = titan_pantheon_name
+		PantheonTerm2 = titan_pantheon_name_2
+		PantheonTerm3 = titan_pantheon_name_3
+		PantheonTermHasHave = pantheon_term_have
+
+		GoodGodNames = {
+			the_primal_god_titan
+		}
+		EvilGodNames = {
+			ff_dragon_nidhogg
+		}
+
+		#HighGod
+		HighGodName = titan_high_god_name
+		HighGodName2 = titan_high_god_name_2
+		HighGodNamePossessive = titan_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_HE
+		HighGodHerselfHimself = CHARACTER_HIMSELF
+		HighGodHerHis = CHARACTER_HERHIS_HIS
+		HighGodNameAlternate = titan_high_god_name_alternate
+		HighGodNameAlternatePossessive = titan_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = titan_creator_god_name
+		CreatorNamePossessive = titan_creator_god_name
+		CreatorSheHe = CHARACTER_SHEHE_HE
+		CreatorHerHis = CHARACTER_HERHIS_HIS
+		CreatorHerHim = CHARACTER_HERHIM_HIM
+
+		#HealthGod
+		HealthGodName = titan_health_god_name
+		HealthGodNamePossessive = titan_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_HE
+		HealthGodHerHis = CHARACTER_HERHIS_HIS
+		HealthGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#FertilityGod
+		FertilityGodName = titan_fertility_god_name
+		FertilityGodNamePossessive = titan_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_HE
+		FertilityGodHerHis = CHARACTER_HERHIS_HIS
+		FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WealthGod
+		WealthGodName = titan_wealth_god_name
+		WealthGodNamePossessive = titan_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#HouseholdGod
+		HouseholdGodName = titan_household_god_name
+		HouseholdGodNamePossessive = titan_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_HE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+		#FateGod
+		FateGodName = titan_fate_god_name
+		FateGodNamePossessive = titan_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_HE
+		FateGodHerHis = CHARACTER_HERHIS_HIS
+		FateGodHerHim = CHARACTER_HERHIM_HIM
+
+		#KnowledgeGod
+		KnowledgeGodName = titan_knowledge_god_name
+		KnowledgeGodNamePossessive = titan_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = titan_war_god_name
+		WarGodNamePossessive = titan_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = titan_trickster_god_name
+		TricksterGodNamePossessive = titan_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_HE
+		TricksterGodHerHis = CHARACTER_HERHIS_HIS
+		TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#NightGod
+		NightGodName = titan_night_god_name
+		NightGodNamePossessive = titan_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = titan_water_god_name
+		WaterGodNamePossessive = titan_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#Devil
+		DevilName = titan_devil_name
+		DevilNamePossessive = titan_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_HE
+		DevilHerHis = CHARACTER_HERHIS_HIS
+		DevilHerselfHimself = CHARACTER_HIMSELF
+		
+		#Death
+		DeathDeityName = titan_death_deity_name
+		DeathDeityNamePossessive = titan_death_deity_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_HE
+		DeathDeityHerHis = CHARACTER_HERHIS_HIS
+		DeathDeityHerHim = CHARACTER_HERHIM_HIM
+
+		#Witch
+		WitchGodName = titan_witch_god_name
+		WitchGodNamePossessive = titan_witch_god_name_possessive
+		WitchGodSheHe = CHARACTER_SHEHE_HE
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = master
+		WitchGodMotherFather = father
+	}
+	
+	piety_icon_group = "christian"
+
+	faiths = {
+		titan_faith = {
+			color = { 0.8 0.8 0.6 }
+			graphical_faith = "catholic_gfx"
+			religious_head = titan_religious_head_title
+			
+			# holy_site = jerusalem
+
+			#Tenets
+			doctrine = tenet_armed_pilgrimages 
+			doctrine = tenet_cthonic_redoubts 
+			doctrine = tenet_pursuit_of_power
+
+			doctrine = unreformed_faith_doctrine
+
+			holy_order_names = {
+			}
+
+			localization = { 
+			}
+		}
+	}
+}
+
+leviathan_religion = {
+	family = rf_the_primal
+	doctrine_background_icon = core_tenet_banner_christian.dds
+	doctrine = the_primal_hostility_doctrine
+
+	pagan_roots = yes
+
+	#Main Group
+	doctrine = doctrine_gender_female_dominated
+	doctrine = doctrine_pluralism_fundamentalist
+	doctrine = doctrine_theocracy_temporal
+	doctrine = doctrine_temporal_head
+	doctrine = doctrine_pilgrimage_encouraged
+
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_allowed
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_consanguinity_restricted
+
+	#Crimes
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_close_kin_crime
+	doctrine = doctrine_witchcraft_accepted
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_taxation
+	doctrine = doctrine_clerical_gender_female_only
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_temporal_fixed_appointment
+	doctrine = doctrine_funeral_stoic
+
+	traits = {
+		virtues = { intellect_good_3 diligent scholar }
+		sins = { intellect_bad_3 lazy weak }
+	}
+
+	reserved_male_names = { 
+	}
+	reserved_female_names = { 
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1 custom_faith_fp1_fenrir custom_faith_fp1_irminsul custom_faith_fp1_jormungandr custom_faith_fp1_odins_ravens custom_faith_fp1_runestone_moon custom_faith_fp1_thors_hammer custom_faith_fp1_valknut custom_faith_fp1_yggdrasil custom_faith_boromian_circles custom_faith_lotus custom_faith_aum_tibetan custom_faith_pentagram custom_faith_pentagram_inverted custom_faith_burning_bush custom_faith_allah custom_faith_gankyil custom_faith_eye_of_providence custom_faith_dove custom_faith_ichthys custom_faith_lamb custom_faith_black_sheep custom_faith_ankh custom_faith_chi_rho custom_faith_hamsa custom_faith_cool_s
+	}
+
+	holy_order_names = { 
+	}
+
+	holy_order_maa = { teutonic_knights } 
+
+	localization = {
+		#Social
+		ReligiousHeadName = leviathan_religious_head_title
+		ReligiousHeadTitleName = leviathan_religious_head_title_name
+
+		DevoteeMale = leviathan_devotee_male
+		DevoteeMalePlural = leviathan_devotee_male_plural
+		DevoteeFemale = leviathan_devotee_female
+		DevoteeFemalePlural = leviathan_devotee_female_plural
+		DevoteeNeuter = leviathan_devotee_male
+		DevoteeNeuterPlural = leviathan_devotee_male_plural
+
+		PriestMale = leviathan_priest_male
+		PriestMalePlural = leviathan_priest_male_plural
+		PriestFemale = leviathan_priest_male
+		PriestFemalePlural = leviathan_priest_male_plural
+		PriestNeuter = leviathan_priest_male
+		PriestNeuterPlural = leviathan_priest_male_plural
+		AltPriestTermPlural = leviathan_priest_alternate_plural
+
+		BishopMale = leviathan_bishop
+		BishopMalePlural = leviathan_bishop_plural
+		BishopFemale = leviathan_bishop
+		BishopFemalePlural = leviathan_bishop_plural
+		BishopNeuter = leviathan_bishop
+		BishopNeuterPlural = leviathan_bishop_plural
+
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+
+		#Setting
+		HouseOfWorship = leviathan_house_of_worship
+		HouseOfWorship2 = leviathan_house_of_worship_2
+		HouseOfWorship3 = leviathan_house_of_worship_3
+		HouseOfWorshipPlural = leviathan_house_of_worship_plural
+
+		ReligiousSymbol = leviathan_religious_symbol
+		ReligiousSymbol2 = leviathan_religious_symbol_2
+		ReligiousSymbol3 = leviathan_religious_symbol_3
+		ReligiousText = leviathan_religious_text
+		ReligiousText2 = leviathan_religious_text_2
+		ReligiousText3 = leviathan_religious_text_3
+
+		DivineRealm = leviathan_divine_realm
+		DivineRealm2 = leviathan_divine_realm_2
+		DivineRealm3 = leviathan_divine_realm_3
+		PositiveAfterLife = leviathan_positive_afterlife
+		PositiveAfterLife2 = leviathan_positive_afterlife_2
+		PositiveAfterLife3 = leviathan_positive_afterlife_3
+		NegativeAfterLife = leviathan_negative_afterlife
+		NegativeAfterLife2 = leviathan_negative_afterlife_2
+		NegativeAfterLife3 = leviathan_negative_afterlife_3
+
+		#Pantheon
+		PantheonTerm = leviathan_pantheon_name
+		PantheonTerm2 = leviathan_pantheon_name_2
+		PantheonTerm3 = leviathan_pantheon_name_3
+		PantheonTermHasHave = pantheon_term_have
+
+		GoodGodNames = {
+			the_primal_god_leviathan
+		}
+		EvilGodNames = {
+			ff_dragon_nidhogg
+		}
+
+		#HighGod
+		HighGodName = leviathan_high_god_name
+		HighGodName2 = leviathan_high_god_name_2
+		HighGodNamePossessive = leviathan_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_SHE
+		HighGodHerselfHimself = CHARACTER_HERSELF
+		HighGodHerHis = CHARACTER_HERHIS_HER
+		HighGodNameAlternate = leviathan_high_god_name_alternate
+		HighGodNameAlternatePossessive = leviathan_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = leviathan_creator_god_name
+		CreatorNamePossessive = leviathan_creator_god_name
+		CreatorSheHe = CHARACTER_SHEHE_SHE
+		CreatorHerHis = CHARACTER_HERHIS_HER
+		CreatorHerHim = CHARACTER_HERHIM_HER
+
+		#HealthGod
+		HealthGodName = leviathan_health_god_name
+		HealthGodNamePossessive = leviathan_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_SHE
+		HealthGodHerHis = CHARACTER_HERHIS_HER
+		HealthGodHerHim = CHARACTER_HERHIM_HER
+		
+		#FertilityGod
+		FertilityGodName = leviathan_fertility_god_name
+		FertilityGodNamePossessive = leviathan_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_SHE
+		FertilityGodHerHis = CHARACTER_HERHIS_HER
+		FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+		#WealthGod
+		WealthGodName = leviathan_wealth_god_name
+		WealthGodNamePossessive = leviathan_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_SHE
+		WealthGodHerHis = CHARACTER_HERHIS_HER
+		WealthGodHerHim = CHARACTER_HERHIM_HER
+
+		#HouseholdGod
+		HouseholdGodName = leviathan_household_god_name
+		HouseholdGodNamePossessive = leviathan_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HER
+		HouseholdGodHerHim = CHARACTER_HERHIM_HER
+
+		#FateGod
+		FateGodName = leviathan_fate_god_name
+		FateGodNamePossessive = leviathan_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_SHE
+		FateGodHerHis = CHARACTER_HERHIS_HER
+		FateGodHerHim = CHARACTER_HERHIM_HER
+
+		#KnowledgeGod
+		KnowledgeGodName = leviathan_knowledge_god_name
+		KnowledgeGodNamePossessive = leviathan_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HER
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HER
+
+		#WarGod
+		WarGodName = leviathan_war_god_name
+		WarGodNamePossessive = leviathan_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_SHE
+		WarGodHerHis = CHARACTER_HERHIS_HER
+		WarGodHerHim = CHARACTER_HERHIM_HER
+
+		#TricksterGod
+		TricksterGodName = leviathan_trickster_god_name
+		TricksterGodNamePossessive = leviathan_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_SHE
+		TricksterGodHerHis = CHARACTER_HERHIS_HER
+		TricksterGodHerHim = CHARACTER_HERHIM_HER
+
+		#NightGod
+		NightGodName = leviathan_night_god_name
+		NightGodNamePossessive = leviathan_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_SHE
+		NightGodHerHis = CHARACTER_HERHIS_HER
+		NightGodHerHim = CHARACTER_HERHIM_HER
+
+		#WaterGod
+		WaterGodName = leviathan_water_god_name
+		WaterGodNamePossessive = leviathan_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_SHE
+		WaterGodHerHis = CHARACTER_HERHIS_HER
+		WaterGodHerHim = CHARACTER_HERHIM_HER
+
+		#Devil
+		DevilName = leviathan_devil_name
+		DevilNamePossessive = leviathan_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_SHE
+		DevilHerHis = CHARACTER_HERHIS_HER
+		DevilHerselfHimself = CHARACTER_HERSELF
+		
+		#Death
+		DeathDeityName = leviathan_death_deity_name
+		DeathDeityNamePossessive = leviathan_death_deity_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_SHE
+		DeathDeityHerHis = CHARACTER_HERHIS_HER
+		DeathDeityHerHim = CHARACTER_HERHIM_HER
+
+		#Witch
+		WitchGodName = leviathan_witch_god_name
+		WitchGodNamePossessive = leviathan_witch_god_name_possessive
+		WitchGodSheHe = CHARACTER_SHEHE_SHE
+		WitchGodHerHis = CHARACTER_HERHIS_HER
+		WitchGodHerHim = CHARACTER_HERHIM_HER
+		WitchGodMistressMaster = master
+		WitchGodMotherFather = father
+	}
+	
+	piety_icon_group = "christian"
+
+	faiths = {
+		titan_faith = {
+			color = { 0.8 0.8 0.6 }
+			graphical_faith = "catholic_gfx"
+			religious_head = titan_religious_head_title
+			
+			# holy_site = jerusalem
+
+			#Tenets
+			doctrine = tenet_armed_pilgrimages 
+			doctrine = tenet_cthonic_redoubts 
+			doctrine = tenet_pursuit_of_power
+
+			doctrine = unreformed_faith_doctrine
+
+			holy_order_names = {
+			}
+
+			localization = { 
+			}
+		}
+	}
+}
