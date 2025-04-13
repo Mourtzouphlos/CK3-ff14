@@ -1,0 +1,153 @@
+﻿l_simp_chinese:
+ rf_the_twelve:0 "十二神宗教组" 
+ the_twelve_hostility_doctrine_name:0 "$rf_the_twelve$"
+ the_twelve_hostility_doctrine_desc:0 "下列宗教属于$rf_the_twelve$：\n[GetReligionFamily('rf_the_twelve').GetReligions]"
+
+ the_twelve_religion:0 "艾欧泽亚十二神"
+ the_twelve_religion_adj:0 "艾欧泽亚十二神"
+ the_twelve_religion_adj_adherent:0 "十二神信徒"
+ the_twelve_religion_adj_adherent_plural:0 "十二神信徒"
+ the_twelve_religion_desc:0 "十二神各自拥有是为物质界物理基础的六属性神力，并掌管12个月以及12年运行，作为文化的基础，与人们的生活密切相关。"
+
+ the_twelve_religious_head_title:0 "教宗"
+ the_twelve_religious_head_title_name:0 "教廷"
+ the_twelve_devotee_male:0 "修士"
+ the_twelve_devotee_male_plural:0 "修士"
+ the_twelve_devotee_female:0 "修女"
+ the_twelve_devotee_female_plural:0 "修女"
+ the_twelve_priest_male:0 "司祭"
+ the_twelve_priest_male_plural:0 "司祭"
+ the_twelve_priest_alternate_plural:0 "教士"
+ the_twelve_bishop:0 "主教"
+ the_twelve_bishop_plural:0	"主教"
+
+ the_twelve_house_of_worship:0 "圣地"
+ the_twelve_house_of_worship_2:0 "$the_twelve_house_of_worship$"
+ the_twelve_house_of_worship_3:0 "$the_twelve_house_of_worship$"
+ the_twelve_house_of_worship_plural:0 "圣地"
+ the_twelve_religious_symbol:0 "水晶"
+ the_twelve_religious_symbol_2:0 "$the_twelve_religious_symbol$"
+ the_twelve_religious_symbol_3:0 "$the_twelve_religious_symbol$"
+ the_twelve_religious_text:0 "《创世神话》"
+ the_twelve_religious_text_2:0 "《龙歌萨迦》"
+ the_twelve_religious_text_3:0 "《钦定伊修加德正教仪轨与教义问答大全》"
+
+ the_twelve_divine_realm:0 "天堂"
+ the_twelve_divine_realm_2:0 "$the_twelve_divine_realm$"
+ the_twelve_divine_realm_3:0 "$the_twelve_divine_realm$"
+ the_twelve_positive_afterlife:0 "天堂"
+ the_twelve_positive_afterlife_2:0 "乐园"
+ the_twelve_positive_afterlife_3:0 "乐土"
+ the_twelve_negative_afterlife:0 "地狱"
+ the_twelve_negative_afterlife_2:0 "深渊"
+ the_twelve_negative_afterlife_3:0 "火狱"
+
+ the_twelve_pantheon_name:0 "艾欧泽亚十二神"
+ the_twelve_pantheon_name_2:0 "十二神"
+ the_twelve_pantheon_name_3:0 "十二神"
+ 
+ the_twelve_god_halone:0 "哈罗妮" #女，星极冰，冰河与战争
+ the_twelve_god_halone_possessive:0 "哈罗妮"
+ the_twelve_god_menphina:0 "梅茵菲娜" #女，灵极冰，双月与慈爱
+ the_twelve_god_menphina_possessive:0 "梅茵菲娜"
+ the_twelve_god_thaliak:0 "沙利亚克" #男，星极水，河流与知识
+ the_twelve_god_thaliak_possessive:0 "沙利亚克"
+ the_twelve_god_nymeia:0 "妮美雅" #女，灵极水，行星与命运
+ the_twelve_god_nymeia_possessive:0 "妮美雅"
+ the_twelve_god_llymlaen:0 "利姆莱茵" #女，星极风，海洋与航海
+ the_twelve_god_llymlaen_possessive:0 "利姆莱茵"
+ the_twelve_god_oschon:0 "奥修昂" #男，灵极风，山岳与放浪
+ the_twelve_god_oschon_possessive:0 "奥修昂"
+ the_twelve_god_byregot:0 "比尔格" #男，星极雷，建筑与工艺
+ the_twelve_god_byregot_possessive:0 "比尔格"
+ the_twelve_god_rhalgr:0 "拉尔戈" #男，灵极雷，彗星与破坏
+ the_twelve_god_rhalgr_possessive:0 "拉尔戈"
+ the_twelve_god_azeyma:0 "阿泽玛" #女，星极火，太阳与审理
+ the_twelve_god_azeyma_possessive:0 "阿泽玛"
+ the_twelve_god_naldthal:0 "纳尔札尔" #男，灵极火，地底与商贸，双子神
+ the_twelve_god_naldthal_possessive:0 "纳尔札尔"
+ the_twelve_god_nald:0 "纳尔" 
+ the_twelve_god_nald_possessive:0 "纳尔"
+ the_twelve_god_thal:0 "札尔" 
+ the_twelve_god_thal_possessive:0 "札尔"
+ the_twelve_god_nophica:0 "诺菲卡" #女，星极土，大地与丰饶
+ the_twelve_god_nophica_possessive:0 "诺菲卡"
+ the_twelve_god_althyk:0 "阿尔基克" #男，灵极土，重力与光阴
+ the_twelve_god_althyk_possessive:0 "阿尔基克"
+
+ the_twelve_high_god_name:0	"神"
+ the_twelve_high_god_name_possessive:0 "神"
+ the_twelve_high_god_name_alternate:0 "主"
+ the_twelve_high_god_name_alternate_possessive:0 "主"
+ the_twelve_creator_god_name:0 "$the_twelve_god_byregot$"	
+ the_twelve_creator_god_name_possessive:0 "$the_twelve_god_byregot_possessive$"
+ the_twelve_health_god_name:0 "$the_twelve_god_oschon$"
+ the_twelve_health_god_name_possessive:0 "$the_twelve_god_oschon_possessive$"
+ the_twelve_fertility_god_name:0 "$the_twelve_god_nophica$"
+ the_twelve_fertility_god_name_possessive:0 "$the_twelve_god_nophica_possessive$"
+ the_twelve_wealth_god_name:0 "$the_twelve_god_llymlaen$"	
+ the_twelve_wealth_god_name_possessive:0 "$the_twelve_god_llymlaen_possessive$"	
+ the_twelve_household_god_name:0 "$the_twelve_god_nymeia$"
+ the_twelve_household_god_name_possessive:0	"$the_twelve_god_nymeia_possessive$"
+ the_twelve_fate_god_name:0	"$the_twelve_god_azeyma$"
+ the_twelve_fate_god_name_possessive:0 "$the_twelve_god_azeyma_possessive$"
+ the_twelve_knowledge_god_name:0 "$the_twelve_god_thaliak$"
+ the_twelve_knowledge_god_name_possessive:0	"$the_twelve_god_thaliak_possessive$"
+ the_twelve_war_god_name:0 "$the_twelve_god_halone$"
+ the_twelve_war_god_name_possessive:0 "$the_twelve_god_halone_possessive$"
+ the_twelve_water_god_name:0 "$the_twelve_god_thaliak$"	
+ the_twelve_water_god_name_possessive:0 "$the_twelve_god_thaliak_possessive$"	
+ the_twelve_trickster_god_name:0 "$the_twelve_god_naldthal$"
+ the_twelve_trickster_god_name_possessive:0	"$the_twelve_god_naldthal_possessive$"
+ the_twelve_night_god_name:0 "$the_twelve_god_menphina$"
+ the_twelve_night_god_name_possessive:0	"$the_twelve_god_menphina_possessive$"
+ the_twelve_devil_name:0 "$the_twelve_god_rhalgr$"
+ the_twelve_devil_name_possessive:0	"$the_twelve_god_rhalgr_possessive$"
+ the_twelve_death_deity_name:0 "$the_twelve_god_nymeia$"
+ the_twelve_death_deity_name_possessive:0 "$the_twelve_god_nymeia_possessive$"
+ the_twelve_witch_god_name:0 "$ff_dragon_nidhogg$"
+ the_twelve_witch_god_name_possessive:0 "$ff_dragon_nidhogg_possessive$"
+
+ the_twelve_faith_halone:0 "$the_twelve_god_halone$信仰"
+ the_twelve_faith_halone_adj:0 "$the_twelve_god_halone$"
+ the_twelve_faith_halone_adherent:0 "$the_twelve_god_halone$信徒"
+ the_twelve_faith_halone_adherent_plural:0 "$the_twelve_god_halone$信徒"
+ the_twelve_faith_halone_desc:0 "the_twelve_faith_halone_desc"
+
+ the_twelve_faith_thaliak:0 "$the_twelve_god_thaliak$信仰"
+ the_twelve_faith_thaliak_adj:0 "$the_twelve_god_thaliak$"
+ the_twelve_faith_thaliak_adherent:0 "$the_twelve_god_thaliak$信徒"
+ the_twelve_faith_thaliak_adherent_plural:0 "$the_twelve_god_thaliak$信徒"
+ the_twelve_faith_thaliak_desc:0 "the_twelve_faith_thaliak_desc"
+
+ the_twelve_faith_nymeia:0 "$the_twelve_god_nymeia$信仰"
+ the_twelve_faith_nymeia_adj:0 "$the_twelve_god_nymeia$"
+ the_twelve_faith_nymeia_adherent:0 "$the_twelve_god_nymeia$信徒"
+ the_twelve_faith_nymeia_adherent_plural:0 "$the_twelve_god_nymeia$信徒"
+ the_twelve_faith_nymeia_desc:0 "the_twelve_faith_nymeia_desc"
+
+ the_twelve_faith_llymlaen:0 "$the_twelve_god_llymlaen$信仰"
+ the_twelve_faith_llymlaen_adj:0 "$the_twelve_god_llymlaen$"
+ the_twelve_faith_llymlaen_adherent:0 "$the_twelve_god_llymlaen$信徒"
+ the_twelve_faith_llymlaen_adherent_plural:0 "$the_twelve_god_llymlaen$信徒"
+ the_twelve_faith_llymlaen_desc:0 "the_twelve_faith_llymlaen_desc"
+
+ the_twelve_faith_rhalgr:0 "$the_twelve_god_rhalgr$星导教"
+ the_twelve_faith_rhalgr_adj:0 "$the_twelve_god_rhalgr$"
+ the_twelve_faith_rhalgr_adherent:0 "$the_twelve_god_rhalgr$信徒"
+ the_twelve_faith_rhalgr_adherent_plural:0 "$the_twelve_god_rhalgr$信徒"
+ the_twelve_faith_rhalgr_desc:0 "the_twelve_faith_rhalgr_desc"
+
+ the_twelve_faith_naldthal:0 "$the_twelve_god_naldthal$信仰"
+ the_twelve_faith_naldthal_adj:0 "$the_twelve_god_naldthal$"
+ the_twelve_faith_naldthal_adherent:0 "$the_twelve_god_naldthal$信徒"
+ the_twelve_faith_naldthal_adherent_plural:0 "$the_twelve_god_naldthal$信徒"
+ the_twelve_faith_naldthal_desc:0 "the_twelve_faith_naldthal_desc"
+
+ the_twelve_faith_nophica:0 "$the_twelve_god_nophica$信仰"
+ the_twelve_faith_nophica_adj:0 "$the_twelve_god_nophica$"
+ the_twelve_faith_nophica_adherent:0 "$the_twelve_god_nophica$信徒"
+ the_twelve_faith_nophica_adherent_plural:0 "$the_twelve_god_nophica$信徒"
+ the_twelve_faith_nophica_desc:0 "the_twelve_faith_nophica_desc"
+
+
