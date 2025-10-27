@@ -1,0 +1,28 @@
+﻿uldah = { #乌尔达哈
+	color = uldah
+	
+	ethos = ethos_bureaucratic #民族精神官僚
+	heritage = heritage_Thanalan #传承萨纳兰
+	language = language_Eorzea #语言艾欧泽亚通用语
+	martial_custom = martial_custom_equal #军事性别男女平等
+	head_determination = head_determination_domain #不管别动
+	traditions = { #传统
+		tradition_dryland_dwellers #旱地居民
+		tradition_ruling_caste #统治阶层
+		tradition_ep3_palace_politics #宫廷政治
+		tradition_fervent_temple_builders #热忱的神殿建造者
+		tradition_ep3_cultivated_sophistication #培养精致
+	}
+	
+	name_list = name_list_Thanalan #命名习惯
+	
+	coa_gfx = { west_african_group_coa_gfx } #纹章徽章图形资源西非
+	building_gfx = { mena_building_gfx mena_building_gfx } #建筑图形资源
+	clothing_gfx = { afr_berber_clothing_gfx } #服饰图形资源
+	unit_gfx = { western_unit_gfx } #军队图形资源
+	
+	ethnicities = {
+		10 = mena #地区中该文化人群权重
+	}
+}
+

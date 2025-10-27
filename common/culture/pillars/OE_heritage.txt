@@ -1,0 +1,11 @@
+﻿##### Oriental Empires #####
+
+heritage_Thanalan = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_Thanalan
+		}
+	}
+	audio_parameter = mena
+}
