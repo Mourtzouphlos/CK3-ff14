@@ -1,20 +1,20 @@
-﻿the_Harlow_religion = {
-	family = rf_the_twelve
+﻿the_Naldthal_religion = {
+	family = rf_the_twelve #宗教组
 	doctrine_background_icon = core_tenet_banner_christian.dds
 	doctrine = the_twelve_hostility_doctrine
 
 	pagan_roots = yes
 
 	#Main Group
-	doctrine = doctrine_gender_male_dominated #男性主导
-	doctrine = doctrine_pluralism_righteous #正义
+	doctrine = doctrine_gender_equal #gender_equal男女平等male_dominated男性主导dominated女性主导
+	doctrine = doctrine_pluralism_fundamentalist #righteous正义fundamentalist基要pluralistic多元
 	doctrine = doctrine_theocracy_temporal #神权制
 	doctrine = doctrine_temporal_head #属灵
 	doctrine = doctrine_pilgrimage_encouraged #鼓励
 
 	#Marriage
 	doctrine = doctrine_monogamy #polygamy多配偶monogamy单配偶concubines侧室
-	doctrine = doctrine_divorce_approval #离婚须获批disallowed禁止离婚allowed允许离婚
+	doctrine = doctrine_divorce_allowed #approval离婚须获批disallowed禁止离婚allowed允许离婚
 	doctrine = doctrine_bastardry_legitimization #none没有人是私生子legitimization可以合法化all不能合法化
 	doctrine = doctrine_consanguinity_cousins #unrestricted无限制婚姻restricted至亲禁忌cousins同辈堂表亲婚姻aunt_nephew_and_uncle_niece交辈旁系亲属婚姻
 
@@ -23,21 +23,21 @@
 	doctrine = doctrine_deviancy_shunned #性变态忌讳crime罪行accepted接受
 	doctrine = doctrine_adultery_men_shunned #男性通奸忌讳crime罪行accepted接受
 	doctrine = doctrine_adultery_women_shunned #女性通奸忌讳crime罪行accepted接受
-	doctrine = doctrine_kinslaying_any_dynasty_member_crime #弑宗族犯罪extended_family_crime弑亲族犯罪close_kin_crime弑至亲犯罪shunned忌讳accepted接受
-	doctrine = doctrine_witchcraft_shunned #accepted巫术接受shunned忌讳crime罪行virtuous美德
+	doctrine = doctrine_kinslaying_close_kin_crime #any_dynasty_member_crime弑宗族犯罪extended_family_crime弑亲族犯罪close_kin_crime弑至亲犯罪shunned忌讳accepted接受
+	doctrine = doctrine_witchcraft_accepted #accepted巫术接受shunned忌讳crime罪行virtuous美德
 
 	#Clerical Functions
-	doctrine = doctrine_clerical_function_taxation #控制力alms_and_pacification施舍与安抚recruitment征兵
-	doctrine = doctrine_clerical_gender_either #性别不限male_only仅男性female_only仅女性
-	doctrine = doctrine_clerical_marriage_disallowed #allowed允许结婚disallowed禁止结婚
-	doctrine = doctrine_clerical_succession_spiritual_appointment #属灵，终身temporal_fixed世俗，终身spiritual属灵，可被剥夺temporal世俗，可被剥夺
+	doctrine = doctrine_clerical_function_taxation #taxation控制力alms_and_pacification施舍与安抚recruitment征兵
+	doctrine = doctrine_clerical_gender_either #either性别不限male_only仅男性female_only仅女性
+	doctrine = doctrine_clerical_marriage_allowed #allowed允许结婚disallowed禁止结婚
+	doctrine = doctrine_clerical_succession_temporal_fixed_appointment #spiritual_fixed属灵，终身temporal_fixed世俗，终身spiritual属灵，可被剥夺temporal世俗，可被剥夺
 	doctrine = doctrine_funeral_stoic #天葬stoic克制式葬礼bewailment哀号式葬礼cremation火葬mummification制为木乃伊
 	#Special Doctrine for Christian Syncretism
 	#doctrine = special_doctrine_is_christian_faith
 
 	traits = {
-		virtues = { just chaste temperate }
-		sins = { craven rakish sadistic }
+		virtues = { ambitious profligate generous } #美德野心勃勃，挥霍，慷慨
+		sins = { cynical contrite improvident } #罪恶愤世嫉俗，懊悔，缺乏远见
 	}
 
 	reserved_male_names = { 
@@ -257,10 +257,10 @@
 	piety_icon_group = "christian"
 
 	faiths = {
-		ishgardian_church = {
+		naldthal_order = {
 			color = { 0.8 0.8 0.6 }
 			graphical_faith = "catholic_gfx"
-			religious_head = halone_religious_head_title
+			religious_head = naldthal_religious_head_title
 			
 			# holy_site = jerusalem
 			# holy_site = rome
@@ -273,15 +273,15 @@
 			#doctrine = special_doctrine_ecumenical_christian
 			
 			#Tenets
-			doctrine = tenet_religious_legal_pronouncements #宗教法
-			doctrine = tenet_warmonger #战争狂人
-			doctrine = tenet_unrelenting_faith #不屈信仰
+			doctrine = tenet_pursuit_of_power #追逐权利
+			doctrine = tenet_hedonistic #享乐主义
+			doctrine = tenet_false_conversion_sanction #假意改信
 }
 
-		halone_belief_church = {
+		naldthal_belief = {
 			color = { 0.8 0.8 0.6 }
 			graphical_faith = "catholic_gfx"
-			religious_head = thaliak_religious_head_title
+			religious_head = naldthal_religious_head_title
 			
 			# holy_site = jerusalem
 			# holy_site = rome
@@ -294,11 +294,11 @@
 			#doctrine = special_doctrine_ecumenical_christian
 
 			#Tenets
-			doctrine = tenet_armed_pilgrimages #武装朝圣
-			doctrine = tenet_asceticism #苦修
-			doctrine = tenet_unrelenting_faith #不屈信仰
+			doctrine = tenet_astrology #占星术
+			doctrine = tenet_hedonistic #享乐主义
+			doctrine = tenet_false_conversion_sanction #假意改信
 
-			doctrine = unreformed_faith_doctrine
+			doctrine = unreformed_faith_doctrine 
 		}
 	}
 }

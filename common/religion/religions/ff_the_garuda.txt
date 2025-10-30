@@ -1,45 +1,42 @@
-﻿the_Harlow_religion = {
-	family = rf_the_twelve
+the_garuda_religion = {
+	family = rf_the_twelve_Manshen
 	doctrine_background_icon = core_tenet_banner_christian.dds
-	doctrine = the_twelve_hostility_doctrine
+	doctrine = the_twelve_Manshen_hostility_doctrine
 
 	pagan_roots = yes
-
 	#Main Group
-	doctrine = doctrine_gender_male_dominated #男性主导
-	doctrine = doctrine_pluralism_righteous #正义
-	doctrine = doctrine_theocracy_temporal #神权制
-	doctrine = doctrine_temporal_head #属灵
-	doctrine = doctrine_pilgrimage_encouraged #鼓励
+		doctrine = doctrine_gender_equal #男女平等
+		doctrine = doctrine_pluralism_fundamentalist #基要主义
+		doctrine = doctrine_theocracy_temporal #神权制
+		doctrine = doctrine_temporal_head #世俗（宗教领袖）
+		doctrine = doctrine_pilgrimage_encouraged #鼓励（朝圣）
 
 	#Marriage
-	doctrine = doctrine_monogamy #polygamy多配偶monogamy单配偶concubines侧室
-	doctrine = doctrine_divorce_approval #离婚须获批disallowed禁止离婚allowed允许离婚
-	doctrine = doctrine_bastardry_legitimization #none没有人是私生子legitimization可以合法化all不能合法化
-	doctrine = doctrine_consanguinity_cousins #unrestricted无限制婚姻restricted至亲禁忌cousins同辈堂表亲婚姻aunt_nephew_and_uncle_niece交辈旁系亲属婚姻
+		doctrine = doctrine_monogamy #单配偶
+		doctrine = doctrine_divorce_allowed #允许离婚
+		doctrine = doctrine_bastardry_none #没有人是私生子
+		doctrine = doctrine_consanguinity_cousins #同辈堂表亲婚姻
 
 	#Crimes
-	doctrine = doctrine_homosexuality_shunned #同性忌讳crime罪行accepted接受
-	doctrine = doctrine_deviancy_shunned #性变态忌讳crime罪行accepted接受
-	doctrine = doctrine_adultery_men_shunned #男性通奸忌讳crime罪行accepted接受
-	doctrine = doctrine_adultery_women_shunned #女性通奸忌讳crime罪行accepted接受
-	doctrine = doctrine_kinslaying_any_dynasty_member_crime #弑宗族犯罪extended_family_crime弑亲族犯罪close_kin_crime弑至亲犯罪shunned忌讳accepted接受
-	doctrine = doctrine_witchcraft_shunned #accepted巫术接受shunned忌讳crime罪行virtuous美德
+		doctrine = doctrine_homosexuality_shunned #同性忌讳
+		doctrine = doctrine_deviancy_shunned #性变态忌讳
+		doctrine = doctrine_adultery_men_shunned #男性通奸忌讳
+		doctrine = doctrine_adultery_women_shunned #女性通奸忌讳
+		doctrine = doctrine_kinslaying_any_dynasty_member_crime #弑宗族成员是犯罪
+		doctrine = doctrine_witchcraft_virtuous #美德（巫术）
 
 	#Clerical Functions
-	doctrine = doctrine_clerical_function_taxation #控制力alms_and_pacification施舍与安抚recruitment征兵
-	doctrine = doctrine_clerical_gender_either #性别不限male_only仅男性female_only仅女性
-	doctrine = doctrine_clerical_marriage_disallowed #allowed允许结婚disallowed禁止结婚
-	doctrine = doctrine_clerical_succession_spiritual_appointment #属灵，终身temporal_fixed世俗，终身spiritual属灵，可被剥夺temporal世俗，可被剥夺
-	doctrine = doctrine_funeral_stoic #天葬stoic克制式葬礼bewailment哀号式葬礼cremation火葬mummification制为木乃伊
-	#Special Doctrine for Christian Syncretism
-	#doctrine = special_doctrine_is_christian_faith
+		doctrine = doctrine_clerical_function_recruitment #征兵
+		doctrine = doctrine_clerical_gender_either #性别不限
+		doctrine = doctrine_clerical_marriage_allowed #允许结婚
+		doctrine = doctrine_clerical_succession_spiritual_fixed_appointment #属灵，终身
+		doctrine = doctrine_funeral_sky_burial #天葬
 
-	traits = {
-		virtues = { just chaste temperate }
-		sins = { craven rakish sadistic }
-	}
-
+	#罪行与美德
+		traits = {
+			virtues = { master_hunter zealous brave } #狩猎大师 狂热 勇敢（注：“狩猎大师”对应游戏内代码master_hunter，确保功能生效）
+			sins = { craven shy reclusive } #怯懦 含羞 蛰居
+		}
 	reserved_male_names = { 
 		Andrew Antoninus Bartolomeus Benedict Christian Christopher Clement Constantine David Demetrius Eustace George Gregory
 		Hans Isaac Joakim Jacob John Jordan Joseph Laurence Magnus Marcus Martin Matthew Michael Nicholas Patrick Paul Peter Philip
@@ -257,10 +254,10 @@
 	piety_icon_group = "christian"
 
 	faiths = {
-		ishgardian_church = {
+		garuda = {
 			color = { 0.8 0.8 0.6 }
 			graphical_faith = "catholic_gfx"
-			religious_head = halone_religious_head_title
+			religious_head = garuda_religious_head_title
 			
 			# holy_site = jerusalem
 			# holy_site = rome
@@ -272,33 +269,13 @@
 			# 单一主神论
 			#doctrine = special_doctrine_ecumenical_christian
 			
-			#Tenets
-			doctrine = tenet_religious_legal_pronouncements #宗教法
-			doctrine = tenet_warmonger #战争狂人
-			doctrine = tenet_unrelenting_faith #不屈信仰
+			    #Tenets（核心教义）
+				doctrine = tenet_ancestor_worship #祖先崇拜
+				doctrine = tenet_ritual_celebrations #庆典
+				doctrine = tenet_warmonger #战争狂人
+				
+				doctrine = unreformed_faith_doctrine
 }
 
-		halone_belief_church = {
-			color = { 0.8 0.8 0.6 }
-			graphical_faith = "catholic_gfx"
-			religious_head = thaliak_religious_head_title
-			
-			# holy_site = jerusalem
-			# holy_site = rome
-			# holy_site = cologne
-			# holy_site = santiago
-			# holy_site = kent
-			
-			#Special Tolerance
-			# 单一主神论
-			#doctrine = special_doctrine_ecumenical_christian
-
-			#Tenets
-			doctrine = tenet_armed_pilgrimages #武装朝圣
-			doctrine = tenet_asceticism #苦修
-			doctrine = tenet_unrelenting_faith #不屈信仰
-
-			doctrine = unreformed_faith_doctrine
-		}
 	}
 }
