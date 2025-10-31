@@ -34,7 +34,7 @@ the_Llymlaen_religion = {
 	doctrine = doctrine_funeral_stoic #丧葬传统：克制式葬礼
 	#罪行与美德
 	traits = {
-	virtues = { ambitious gregarious brave } #野心勃勃 合群 勇敢
+	virtues = { ambitious gregarious brave athletic } #野心勃勃 合群 勇敢 健身
 	sins = { trusting content vengeful } #轻信他人 安于现状 睚眦必报
 	}
 

@@ -34,7 +34,7 @@ the_sephirot_religion = {
 
 	#罪行与美德
 		traits = {
-			virtues = { brave rowdy flagellant } #勇敢 闹腾 自鞭挞者
+			virtues = { brave athletic flagellant } #勇敢 健身 自鞭挞者
 			sins = { lazy weak craven } #懒惰 虚弱 怯懦
 		}
 

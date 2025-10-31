@@ -34,7 +34,7 @@ the_ifrit_religion = {
 
 	#罪行与美德
 		traits = {
-			virtues = { master_hunter brave ambitious } #狩猎大师 勇敢 野心勃勃（注：“狩猎大师”对应游戏内代码master_hunter）
+			virtues = { brave ambitious } #勇敢 野心勃勃
 			sins = { reclusive weak craven } #蛰居 虚弱 怯懦
 		}
 	reserved_male_names = { 

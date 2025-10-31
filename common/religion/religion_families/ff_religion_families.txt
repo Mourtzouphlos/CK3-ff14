@@ -16,4 +16,35 @@ rf_the_Melanesia = {
 	doctrine_background_icon = core_tenet_banner_christian.dds
 }
 
+rf_the_dragon = {
+	graphical_faith = "orthodox_gfx"
+	hostility_doctrine = the_dragon_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
+}
+
+rf_the_yijie = {
+	graphical_faith = "orthodox_gfx"
+	hostility_doctrine = the_yijie_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
+}
+
+rf_the_Arago = {
+	graphical_faith = "orthodox_gfx"
+	hostility_doctrine = the_Arago_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
+}
+
+rf_the_Garema = {
+	graphical_faith = "orthodox_gfx"
+	hostility_doctrine = the_Garema_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
+}
+
+rf_the_ivalice = {
+	graphical_faith = "orthodox_gfx"
+	hostility_doctrine = the_ivalice_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
+}
+
+
 

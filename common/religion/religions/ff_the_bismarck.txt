@@ -34,7 +34,7 @@ the_bismarck_religion = {
 
 	#罪行与美德
 		traits = {
-			virtues = { content gregarious rowdy } #安于现状 合群 闹腾（均为游戏内标准特质代码，确保功能正常）
+			virtues = { content gregarious athletic } #安于现状 合群 健身
 			sins = { cynical impatient wrathful } #愤世嫉俗 急躁 暴怒
 		}
 	reserved_male_names = { 

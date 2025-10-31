@@ -34,7 +34,7 @@ the_garuda_religion = {
 
 	#罪行与美德
 		traits = {
-			virtues = { master_hunter zealous brave } #狩猎大师 狂热 勇敢（注：“狩猎大师”对应游戏内代码master_hunter，确保功能生效）
+			virtues = { zealous brave } #狂热 勇敢）
 			sins = { craven shy reclusive } #怯懦 含羞 蛰居
 		}
 	reserved_male_names = { 

@@ -34,7 +34,7 @@ the_Oschon_religion = {
 
     #罪行与美德
     traits = {
-        virtues = { brave rowdy poet rakish } #勇敢 闹腾 诗人 放荡
+        virtues = { brave athletic poet rakish } #勇敢 健身 诗人 放荡
         sins = { shy content reclusive weak } #害羞 安于现状 蛰居 虚弱
     }
 

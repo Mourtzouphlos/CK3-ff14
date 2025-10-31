@@ -34,7 +34,7 @@ the_ravana_religion = {
 
 	#罪行与美德
 		traits = {
-			virtues = { master_hunter gregarious temperate } #狩猎大师 合群 节制（注：“狩猎大师”对应游戏内代码master_hunter）
+			virtues = { gregarious temperate } #合群 节制
 			sins = { fickle paranoid comfort_eater } #多变 多疑 食以慰藉
 		}
 	reserved_male_names = { 

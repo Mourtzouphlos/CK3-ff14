@@ -34,7 +34,7 @@ the_Menphina_religion = {
 
 	#罪行与美德
 	traits = {
-    virtues = { impatient compassionate hunter_3 } #急躁 慈悲 狩猎大师
+    virtues = { impatient compassionate } #急躁 慈悲
     sins = { lazy stubborn callous } #懒惰 固执 冷酷
 }
 

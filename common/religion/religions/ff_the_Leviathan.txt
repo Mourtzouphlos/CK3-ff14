@@ -34,7 +34,7 @@ the_Leviathan_religion = {
 
 	#罪行与美德
 		traits = {
-			virtues = { brave hunter_3 zealous } #勇敢 狩猎大师 狂热（注：狩猎大师对应游戏内代码master_hunter，确保功能生效）
+			virtues = { brave zealous } #勇敢 狂热
 			sins = { cynical compassionate forgiving } #愤世嫉俗 慈悲 宽宏大量
 		}
 
