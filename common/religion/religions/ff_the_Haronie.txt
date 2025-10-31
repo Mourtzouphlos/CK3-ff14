@@ -1,5 +1,5 @@
 ﻿the_Harlow_religion = {
-	family = rf_the_twelve
+	family = rf_the_twelve #宗教组
 	doctrine_background_icon = core_tenet_banner_christian.dds
 	doctrine = the_twelve_hostility_doctrine
 

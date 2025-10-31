@@ -4,21 +4,15 @@
 	doctrine_background_icon = core_tenet_banner_christian.dds
 }
 
-rf_the_primal = {
+rf_the_eikon = {
 	graphical_faith = "orthodox_gfx"
-	hostility_doctrine = the_primal_hostility_doctrine
+	hostility_doctrine = the_eikon_hostility_doctrine
 	doctrine_background_icon = core_tenet_banner_christian.dds
 }
 
-rf_the_monster = {
+rf_the_Melanesia = {
 	graphical_faith = "orthodox_gfx"
-	hostility_doctrine = the_monster_hostility_doctrine
-	doctrine_background_icon = core_tenet_banner_christian.dds
-}
-
-rf_the_dragon = {
-	graphical_faith = "orthodox_gfx"
-	hostility_doctrine = the_dragon_hostility_doctrine
+	hostility_doctrine = the_Melanesia_hostility_doctrine
 	doctrine_background_icon = core_tenet_banner_christian.dds
 }
 

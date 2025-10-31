@@ -1,7 +1,7 @@
-the_Titan_religion = {
-	family = rf_the_twelve_Manshen
-	doctrine_background_icon = core_tenet_banner_christian.dds
-	doctrine = the_twelve_Manshen_hostility_doctrine
+the_titan_religion = {
+	family = rf_the_eikon
+	doctrine_background_icon = core_tenet_banner_eastern.dds
+	doctrine = the_eikon_hostility_doctrine
 
 	pagan_roots = yes
 	#Main Group
@@ -66,66 +66,66 @@ the_Titan_religion = {
 
 	localization = {
 		#Social
-		ReligiousHeadName = the_twelve_religious_head_title
-		ReligiousHeadTitleName = the_twelve_religious_head_title_name
+		ReligiousHeadName = the_eikon_religious_head_title
+		ReligiousHeadTitleName = the_eikon_religious_head_title_name
 
-		DevoteeMale = the_twelve_devotee_male
-		DevoteeMalePlural = the_twelve_devotee_male_plural
-		DevoteeFemale = the_twelve_devotee_female
-		DevoteeFemalePlural = the_twelve_devotee_female_plural
-		DevoteeNeuter = the_twelve_devotee_male
-		DevoteeNeuterPlural = the_twelve_devotee_male_plural
+		DevoteeMale = the_eikon_devotee_male
+		DevoteeMalePlural = the_eikon_devotee_male_plural
+		DevoteeFemale = the_eikon_devotee_female
+		DevoteeFemalePlural = the_eikon_devotee_female_plural
+		DevoteeNeuter = the_eikon_devotee_male
+		DevoteeNeuterPlural = the_eikon_devotee_male_plural
 
-		PriestMale = the_twelve_priest_male
-		PriestMalePlural = the_twelve_priest_male_plural
-		PriestFemale = the_twelve_priest_male
-		PriestFemalePlural = the_twelve_priest_male_plural
-		PriestNeuter = the_twelve_priest_male
-		PriestNeuterPlural = the_twelve_priest_male_plural
-		AltPriestTermPlural = the_twelve_priest_alternate_plural
+		PriestMale = the_eikon_priest_male
+		PriestMalePlural = the_eikon_priest_male_plural
+		PriestFemale = the_eikon_priest_male
+		PriestFemalePlural = the_eikon_priest_male_plural
+		PriestNeuter = the_eikon_priest_male
+		PriestNeuterPlural = the_eikon_priest_male_plural
+		AltPriestTermPlural = the_eikon_priest_alternate_plural
 
-		BishopMale = the_twelve_bishop
-		BishopMalePlural = the_twelve_bishop_plural
-		BishopFemale = the_twelve_bishop
-		BishopFemalePlural = the_twelve_bishop_plural
-		BishopNeuter = the_twelve_bishop
-		BishopNeuterPlural = the_twelve_bishop_plural
+		BishopMale = the_eikon_bishop
+		BishopMalePlural = the_eikon_bishop_plural
+		BishopFemale = the_eikon_bishop
+		BishopFemalePlural = the_eikon_bishop_plural
+		BishopNeuter = the_eikon_bishop
+		BishopNeuterPlural = the_eikon_bishop_plural
 
 		GHWName = ghw_great_holy_war
 		GHWNamePlural = ghw_great_holy_wars
 
 		#Setting
-		HouseOfWorship = the_twelve_house_of_worship
-		HouseOfWorship2 = the_twelve_house_of_worship_2
-		HouseOfWorship3 = the_twelve_house_of_worship_3
-		HouseOfWorshipPlural = the_twelve_house_of_worship_plural
+		HouseOfWorship = the_eikon_house_of_worship
+		HouseOfWorship2 = the_eikon_house_of_worship_2
+		HouseOfWorship3 = the_eikon_house_of_worship_3
+		HouseOfWorshipPlural = the_eikon_house_of_worship_plural
 
-		ReligiousSymbol = the_twelve_religious_symbol
-		ReligiousSymbol2 = the_twelve_religious_symbol_2
-		ReligiousSymbol3 = the_twelve_religious_symbol_3
-		ReligiousText = the_twelve_religious_text
-		ReligiousText2 = the_twelve_religious_text_2
-		ReligiousText3 = the_twelve_religious_text_3
+		ReligiousSymbol = the_eikon_religious_symbol
+		ReligiousSymbol2 = the_eikon_religious_symbol_2
+		ReligiousSymbol3 = the_eikon_religious_symbol_3
+		ReligiousText = the_eikon_religious_text
+		ReligiousText2 = the_eikon_religious_text_2
+		ReligiousText3 = the_eikon_religious_text_3
 
-		DivineRealm = the_twelve_divine_realm
-		DivineRealm2 = the_twelve_divine_realm_2
-		DivineRealm3 = the_twelve_divine_realm_3
-		PositiveAfterLife = the_twelve_positive_afterlife
-		PositiveAfterLife2 = the_twelve_positive_afterlife_2
-		PositiveAfterLife3 = the_twelve_positive_afterlife_3
-		NegativeAfterLife = the_twelve_negative_afterlife
-		NegativeAfterLife2 = the_twelve_negative_afterlife_2
-		NegativeAfterLife3 = the_twelve_negative_afterlife_3
+		DivineRealm = the_eikon_divine_realm
+		DivineRealm2 = the_eikon_divine_realm_2
+		DivineRealm3 = the_eikon_divine_realm_3
+		PositiveAfterLife = the_eikon_positive_afterlife
+		PositiveAfterLife2 = the_eikon_positive_afterlife_2
+		PositiveAfterLife3 = the_eikon_positive_afterlife_3
+		NegativeAfterLife = the_eikon_negative_afterlife
+		NegativeAfterLife2 = the_eikon_negative_afterlife_2
+		NegativeAfterLife3 = the_eikon_negative_afterlife_3
 
 		#Pantheon
-		PantheonTerm = the_twelve_pantheon_name
-		PantheonTerm2 = the_twelve_pantheon_name_2
-		PantheonTerm3 = the_twelve_pantheon_name_3
+		PantheonTerm = the_eikon_pantheon_name
+		PantheonTerm2 = the_eikon_pantheon_name_2
+		PantheonTerm3 = the_eikon_pantheon_name_3
 		PantheonTermHasHave = pantheon_term_have
 
 		GoodGodNames = {
 			# “善神”词条均可罗列于此
-			the_twelve_god_halone
+			the_eikon_god_halone
 			# christianity_high_god_name
 			# christianity_high_god_name_alternate
 			# chistianity_good_god_jesus
@@ -141,110 +141,110 @@ the_Titan_religion = {
 		}
 
 		#HighGod
-		HighGodName = the_twelve_high_god_name
-		HighGodName2 = the_twelve_high_god_name_2
-		HighGodNamePossessive = the_twelve_high_god_name_possessive
+		HighGodName = the_eikon_high_god_name
+		HighGodName2 = the_eikon_high_god_name_2
+		HighGodNamePossessive = the_eikon_high_god_name_possessive
 		HighGodNameSheHe = CHARACTER_SHEHE_THEY
 		HighGodHerselfHimself = CHARACTER_THEMSELF
 		HighGodHerHis = CHARACTER_HERHIS_THEIR
-		HighGodNameAlternate = the_twelve_high_god_name_alternate
-		HighGodNameAlternatePossessive = the_twelve_high_god_name_alternate_possessive
+		HighGodNameAlternate = the_eikon_high_god_name_alternate
+		HighGodNameAlternatePossessive = the_eikon_high_god_name_alternate_possessive
 
 		#Creator
-		CreatorName = the_twelve_creator_god_name
-		CreatorNamePossessive = the_twelve_creator_god_name
+		CreatorName = the_eikon_creator_god_name
+		CreatorNamePossessive = the_eikon_creator_god_name
 		CreatorSheHe = CHARACTER_SHEHE_HE
 		CreatorHerHis = CHARACTER_HERHIS_HIS
 		CreatorHerHim = CHARACTER_HERHIM_HIM
 
 		#HealthGod
-		HealthGodName = the_twelve_health_god_name
-		HealthGodNamePossessive = the_twelve_health_god_name_possessive
+		HealthGodName = the_eikon_health_god_name
+		HealthGodNamePossessive = the_eikon_health_god_name_possessive
 		HealthGodSheHe = CHARACTER_SHEHE_HE
 		HealthGodHerHis = CHARACTER_HERHIS_HIS
 		HealthGodHerHim = CHARACTER_HERHIM_HIM
 		
 		#FertilityGod
-		FertilityGodName = the_twelve_fertility_god_name
-		FertilityGodNamePossessive = the_twelve_fertility_god_name_possessive
+		FertilityGodName = the_eikon_fertility_god_name
+		FertilityGodNamePossessive = the_eikon_fertility_god_name_possessive
 		FertilityGodSheHe = CHARACTER_SHEHE_SHE
 		FertilityGodHerHis = CHARACTER_HERHIS_HER
 		FertilityGodHerHim = CHARACTER_HERHIM_HER
 
 		#WealthGod
-		WealthGodName = the_twelve_wealth_god_name
-		WealthGodNamePossessive = the_twelve_wealth_god_name_possessive
+		WealthGodName = the_eikon_wealth_god_name
+		WealthGodNamePossessive = the_eikon_wealth_god_name_possessive
 		WealthGodSheHe = CHARACTER_SHEHE_SHE
 		WealthGodHerHis = CHARACTER_HERHIS_HER
 		WealthGodHerHim = CHARACTER_HERHIM_HER
 
 		#HouseholdGod
-		HouseholdGodName = the_twelve_household_god_name
-		HouseholdGodNamePossessive = the_twelve_household_god_name_possessive
+		HouseholdGodName = the_eikon_household_god_name
+		HouseholdGodNamePossessive = the_eikon_household_god_name_possessive
 		HouseholdGodSheHe = CHARACTER_SHEHE_SHE
 		HouseholdGodHerHis = CHARACTER_HERHIS_HER
 		HouseholdGodHerHim = CHARACTER_HERHIM_HER
 
 		#FateGod
-		FateGodName = the_twelve_fate_god_name
-		FateGodNamePossessive = the_twelve_fate_god_name_possessive
+		FateGodName = the_eikon_fate_god_name
+		FateGodNamePossessive = the_eikon_fate_god_name_possessive
 		FateGodSheHe = CHARACTER_SHEHE_SHE
 		FateGodHerHis = CHARACTER_HERHIS_HER
 		FateGodHerHim = CHARACTER_HERHIM_HER
 
 		#KnowledgeGod
-		KnowledgeGodName = the_twelve_knowledge_god_name
-		KnowledgeGodNamePossessive = the_twelve_knowledge_god_name_possessive
+		KnowledgeGodName = the_eikon_knowledge_god_name
+		KnowledgeGodNamePossessive = the_eikon_knowledge_god_name_possessive
 		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
 		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
 		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
 
 		#WarGod
-		WarGodName = the_twelve_war_god_name
-		WarGodNamePossessive = the_twelve_war_god_name_possessive
+		WarGodName = the_eikon_war_god_name
+		WarGodNamePossessive = the_eikon_war_god_name_possessive
 		WarGodSheHe = CHARACTER_SHEHE_SHE
 		WarGodHerHis = CHARACTER_HERHIS_HER
 		WarGodHerHim = CHARACTER_HERHIM_HER
 
 		#TricksterGod
-		TricksterGodName = the_twelve_trickster_god_name
-		TricksterGodNamePossessive = the_twelve_trickster_god_name_possessive
+		TricksterGodName = the_eikon_trickster_god_name
+		TricksterGodNamePossessive = the_eikon_trickster_god_name_possessive
 		TricksterGodSheHe = CHARACTER_SHEHE_HE
 		TricksterGodHerHis = CHARACTER_HERHIS_HIS
 		TricksterGodHerHim = CHARACTER_HERHIM_HIM
 
 		#NightGod
-		NightGodName = the_twelve_night_god_name
-		NightGodNamePossessive = the_twelve_night_god_name_possessive
+		NightGodName = the_eikon_night_god_name
+		NightGodNamePossessive = the_eikon_night_god_name_possessive
 		NightGodSheHe = CHARACTER_SHEHE_SHE
 		NightGodHerHis = CHARACTER_HERHIS_HER
 		NightGodHerHim = CHARACTER_HERHIM_HER
 
 		#WaterGod
-		WaterGodName = the_twelve_water_god_name
-		WaterGodNamePossessive = the_twelve_water_god_name_possessive
+		WaterGodName = the_eikon_water_god_name
+		WaterGodNamePossessive = the_eikon_water_god_name_possessive
 		WaterGodSheHe = CHARACTER_SHEHE_HE
 		WaterGodHerHis = CHARACTER_HERHIS_HIS
 		WaterGodHerHim = CHARACTER_HERHIM_HIM
 
 		#Devil
-		DevilName = the_twelve_devil_name
-		DevilNamePossessive = the_twelve_devil_name_possessive
+		DevilName = the_eikon_devil_name
+		DevilNamePossessive = the_eikon_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_HE
 		DevilHerHis = CHARACTER_HERHIS_HIS
 		DevilHerHis = CHARACTER_HERHIS_HIS
 		DevilHerselfHimself = CHARACTER_HIMSELF
 		
 		#Death
-		DeathDeityName = the_twelve_death_deity_name
-		DeathDeityNamePossessive = the_twelve_death_deity_name_possessive
+		DeathDeityName = the_eikon_death_deity_name
+		DeathDeityNamePossessive = the_eikon_death_deity_name_possessive
 		DeathDeitySheHe = CHARACTER_SHEHE_SHE
 		DeathDeityHerHis = CHARACTER_HERHIS_HER
 		DeathDeityHerHim = CHARACTER_HERHIM_HER
 
 		#Witch
-		WitchGodName = the_twelve_witch_god_name
-		WitchGodNamePossessive = the_twelve_witch_god_name_possessive
+		WitchGodName = the_eikon_witch_god_name
+		WitchGodNamePossessive = the_eikon_witch_god_name_possessive
 		WitchGodHerHis = CHARACTER_HERHIS_HIS
 		WitchGodSheHe = CHARACTER_SHEHE_HE
 		WitchGodHerHim = CHARACTER_HERHIM_HIM

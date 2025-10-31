@@ -1,7 +1,7 @@
 the_gabe_newell_religion = {
-	family = rf_the_twelve_Manshen
+	family = rf_the_eikon
 	doctrine_background_icon = core_tenet_banner_christian.dds
-	doctrine = the_twelve_Manshen_hostility_doctrine
+	doctrine = the_eikon_hostility_doctrine
 
 	pagan_roots = yes
 	#Main Group

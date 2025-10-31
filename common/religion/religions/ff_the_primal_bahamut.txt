@@ -273,7 +273,7 @@ the_primal_bahamut_religion = {
 			    #Tenets（核心教义）
 				doctrine = tenet_adorcism #附灵
 				doctrine = tenet_gruesome_festivals #恐怖节庆
-				octrine = tenet_human_sacrifice #人祭
+				doctrine = tenet_human_sacrifice #人祭
 				
 				doctrine = unreformed_faith_doctrine
 }
