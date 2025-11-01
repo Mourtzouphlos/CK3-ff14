@@ -46,5 +46,23 @@ rf_the_ivalice = {
 	doctrine_background_icon = core_tenet_banner_christian.dds
 }
 
+rf_the_Near_East = {
+	graphical_faith = "orthodox_gfx"
+	hostility_doctrine = the_Near_East_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
+}
+
+rf_the_East = {
+	graphical_faith = "orthodox_gfx"
+	hostility_doctrine = the_East_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
+}
+
+rf_the_xaela = {
+	graphical_faith = "orthodox_gfx"
+	hostility_doctrine = the_xaela_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
+}
+
 
 
