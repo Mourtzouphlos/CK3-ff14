@@ -272,7 +272,7 @@ the_old_religion = {
 			    #Tenets（核心教义）
 				doctrine = tenet_bhakti #奉爱
 				doctrine = tenet_unrelenting_faith #不屈信仰
-				doctrine = tenet_pastoral_isolation #牧灵隐修
+				doctrine = tenet_communion #共融圣事
 				
 				doctrine = unreformed_faith_doctrine
 }

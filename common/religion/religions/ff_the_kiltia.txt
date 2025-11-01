@@ -292,7 +292,7 @@ the_kiltia_religion = {
 			    #Tenets（核心教义）
 				doctrine = tenet_bhakti #奉爱
 				doctrine = tenet_communion #共融圣事
-				doctrine = tenet_praise_of_suffering #赞颂痛苦
+				doctrine = tenet_exaltation_of_pain #赞颂痛苦
 }
 		duraism = {
 			color = { 0.8 0.8 0.6 }

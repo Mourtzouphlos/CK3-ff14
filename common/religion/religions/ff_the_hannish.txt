@@ -275,7 +275,6 @@ doctrine = doctrine_funeral_stoic #克制式葬礼（丧葬传统）
 				doctrine = tenet_communal_identity #团体身份
 				doctrine = tenet_astrology #占星术
 }
-	faiths = {
 		mrga = {
 			color = { 0.8 0.8 0.6 }
 			graphical_faith = "catholic_gfx"
@@ -296,7 +295,6 @@ doctrine = doctrine_funeral_stoic #克制式葬礼（丧葬传统）
 				doctrine = tenet_ritual_celebrations #庆典
 				doctrine = tenet_communion #共融圣事
 }
-	faiths = {
 		manusya = {
 			color = { 0.8 0.8 0.6 }
 			graphical_faith = "catholic_gfx"

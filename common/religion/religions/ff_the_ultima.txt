@@ -275,7 +275,6 @@ doctrine = doctrine_funeral_stoic #克制式葬礼（丧葬传统）
 				doctrine = tenet_exaltation_of_pain #赞颂痛苦
 				doctrine = tenet_gruesome_festivals #恐怖节庆
 }
-	faiths = {
 		philosophical = {
 			color = { 0.8 0.8 0.6 }
 			graphical_faith = "catholic_gfx"
